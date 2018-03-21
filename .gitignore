@@ -167,3 +167,5 @@ __pycache__
 
 tests/cpputest/writeResults.h5
 tests/cpputest/writeResults.h5.bak
+
+.cproject
