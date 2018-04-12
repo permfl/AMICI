@@ -15,7 +15,7 @@ namespace amici {
     class AmiVector {
     public:
         /** default constructor
-         * creates an std::vector<realype> and attaches the 
+         * creates an std::vector<realtype> and attaches the
          * data pointer to a newly created N_Vector_Serial
          * using N_VMake_Serial ensures that the N_Vector
          * module does not try to deallocate the data vector

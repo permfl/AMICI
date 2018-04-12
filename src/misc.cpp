@@ -4,6 +4,7 @@
 
 #include <cstdio>
 #include <cstring>
+#include <stdarg.h>
 
 namespace amici {
 
@@ -45,6 +46,53 @@ int checkFinite(const int N,const realtype *array, const char* fun){
         }
     }
     return(AMICI_SUCCESS);
+}
+
+/**
+ * Compute the product over the array entries.
+ * T must be numeric.
+ */
+template <typename T>
+T product_of_arr(T* arr, int dim) {
+	T result = 1;
+	for (int j = 0; j < dim; j++) {
+		result *= arr[j];
+	}
+}
+
+/**
+ * Compute 1d index for 1d view on nd array.
+ *
+ * Parameters:
+ * @param n   : dimension
+ * @param ... : i0, n0, i1, n1, ..., in,
+ * 			    where ij denotes index in dim j and nj the size of dim j,
+ * 			    must be 2*n-1 additional arguments in total.
+ */
+int ix_(int n, ...) {
+	// initialize variables
+	int n_dims = n;
+	int n_args = n_dims * 2 - 1;
+	int arr_dims[n_dims-1];
+	int arr_ixs[n_dims];
+	va_list valist;
+	n = n_args; // va_start needs n
+	va_start(valist, n);
+
+	// process arguments
+	for (int j = 0; j  < n_dims - 1; j++) {
+		arr_ixs[j] = va_arg(valist, int);
+		arr_dims[j] = va_arg(valist, int);
+	}
+	arr_ixs[n_dims - 1] = va_arg(valist, int);
+
+	// compute result ix
+	int ix = 0;
+	for (int j = 0; j < n_dims; j++) {
+		ix += product_of_arr(arr_dims, j) * arr_ixs[j];
+	}
+
+	return ix;
 }
 
 } // namespace amici

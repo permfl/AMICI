@@ -17,7 +17,7 @@ mxArray *getReturnDataMatlabFromAmiciCall(ReturnData const *rdata) {
 
 mxArray *initMatlabReturnFields(ReturnData const *rdata) {
     /**
-     * @brief initialises sol object with the corresponding fields
+     * @brief initializes sol object with the corresponding fields
      * @param rdata ReturnDataObject
      */
     const int numFields = 22;
@@ -111,7 +111,7 @@ mxArray *initMatlabReturnFields(ReturnData const *rdata) {
 
 mxArray *initMatlabDiagnosisFields(ReturnData const *rdata) {
     /**
-     * @brief initialises diagnosis object with the corresponding fields
+     * @brief initializes diagnosis object with the corresponding fields
      * @param rdata ReturnDataObject
      */
     const int numFields = 15;
@@ -169,7 +169,7 @@ template<typename T>
 void writeMatlabField0(mxArray *matlabStruct, const char *fieldName,
                        T fielddata) {
     /**
-     * @brief initialise vector and attach to the field
+     * @brief initialize vector and attach to the field
      * @param fieldPointer pointer of the field to which the vector will be
      * attached
      * @param fieldName Name of the field to which the vector will be attached
@@ -208,10 +208,10 @@ void writeMatlabField2(mxArray *matlabStruct, const char *fieldName,
                       const std::vector<T> fieldData, int dim0, int dim1,
                       std::vector<int> perm) {
     /**
-     * @brief initialise matrix, attach to the field and write data
+     * @brief initialize matrix, attach to the field and write data
      * @param matlabStruct Pointer to the matlab structure
      * @param fieldName Name of the field to which the tensor will be attached
-     * @param fieldData Data wich will be stored in the field
+     * @param fieldData Data which will be stored in the field
      * @param dim0 number of rows in the tensor
      * @param dim1 number of columns in the tensor
      */
@@ -240,10 +240,10 @@ void writeMatlabField3(mxArray *matlabStruct, const char *fieldName,
                       const std::vector<T> fieldData, int dim0, int dim1,
                       int dim2, std::vector<int> perm) {
     /**
-     * @brief initialise 3D tensor, attach to the field and write data
+     * @brief initialize 3D tensor, attach to the field and write data
      * @param matlabStruct Pointer to the matlab structure
      * @param fieldName Name of the field to which the tensor will be attached
-     * @param fieldData Data wich will be stored in the field
+     * @param fieldData Data which will be stored in the field
      * @param dim0 number of rows in the tensor
      * @param dim1 number of columns in the tensor
      * @param dim2 number of elements in the third dimension of the tensor
@@ -275,10 +275,10 @@ void writeMatlabField4(mxArray *matlabStruct, const char *fieldName,
                       const std::vector<T> fieldData, int dim0, int dim1,
                       int dim2, int dim3, std::vector<int> perm) {
     /**
-     * @brief initialise 4D tensor, attach to the field and write data
+     * @brief initialize 4D tensor, attach to the field and write data
      * @param matlabStruct Pointer to the matlab structure
      * @param fieldName Name of the field to which the tensor will be attached
-     * @param fieldData Data wich will be stored in the field
+     * @param fieldData Data which will be stored in the field
      * @param dim0 number of rows in the tensor
      * @param dim1 number of columns in the tensor
      * @param dim2 number of elements in the third dimension of the tensor
