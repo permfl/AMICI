@@ -19,8 +19,8 @@
  In order to always stay up-to-date with the latest AMICI versions, simply pull it from our GIT repository and
  recompile it when a new release is available. For more information about GIT checkout their <a href="http://git-scm.com/" target="_blank">website</a>
  
- The GIT repository can currently be found at https://github.com/FFroehlich/AMICI and a direct clone is possible via
- @code git clone https://github.com/FFroehlich/AMICI.git AMICI @endcode
+ The GIT repository can currently be found at https://github.com/icb-dcm/AMICI and a direct clone is possible via
+ @code git clone https://github.com/icb-dcm/AMICI.git AMICI @endcode
  
  @subsection AMICI License Conditions
  This software is available under the <a href="http://www.opensource.org/licenses/bsd-license.php" target="_blank">BSD license</a>
@@ -44,7 +44,7 @@
  If AMICI was downloaded as a zip, it needs to be unpacked in a convenient directory. If AMICI was obtained via cloning of the git repository, no further unpacking is necessary.
  
  To use AMICI, start MATLAB and add the AMICI direcory to the MATLAB path. To add all toolbox directories to the MATLAB path, execute the matlab script
- @code installToolbox.m @endcode
+ @code installAMICI.m @endcode
  To store the installation for further MATLAB session, the path can be saved via
  @code savepath @endcode
  
