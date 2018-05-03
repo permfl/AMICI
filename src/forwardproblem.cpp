@@ -86,7 +86,7 @@ void ForwardProblem::workForwardProblem() {
     } catch (...) {
         throw AmiException("AMICI setup failed due to an unknown error");
     }
-    /* initialise objective function values */
+    /* initialize objective function values */
     if(edata){
         rdata->llh = 0.0;
         rdata->chi2 = 0.0;
@@ -97,7 +97,7 @@ void ForwardProblem::workForwardProblem() {
     int ncheck = 0; /* the number of (internal) checkpoints stored so far */
     realtype tlastroot = 0; /* storage for last found root */
 
-    /* if preequilibration is necessary, start Newton solver */
+    /* if pre-equilibration is necessary, start Newton solver */
     if (solver->getNewtonPreequilibration()) {
         SteadystateProblem sstate = SteadystateProblem(&t,&x,&sx);
         sstate.workSteadyStateProblem(rdata,
@@ -260,7 +260,7 @@ void ForwardProblem::handleEvent(realtype *tlastroot, const bool seflag) {
                         "Event was recorded but not reported as the number of "
                         "occured events exceeded (nmaxevents)*(number of "
                         "events in model definition)!");
-        solver->AMIReInit(t, &x, &dx); /* reinitialise so that we can continue in peace */
+        solver->AMIReInit(t, &x, &dx); /* reinitialize so that we can continue in peace */
         return;
     }
 
@@ -299,7 +299,7 @@ void ForwardProblem::handleEvent(realtype *tlastroot, const bool seflag) {
         handleEvent(tlastroot, TRUE);
     }
 
-    /* only reinitialise in the first event fired */
+    /* only reinitialize in the first event fired */
     if (!seflag) {
         solver->AMIReInit(t, &x, &dx);
 
@@ -316,7 +316,7 @@ void ForwardProblem::handleEvent(realtype *tlastroot, const bool seflag) {
 
 void ForwardProblem::storeJacobianAndDerivativeInReturnData() {
     /**
-     * evalues the Jacobian and differential equation right hand side, stores it
+     * evaluates the Jacobian and differential equation right hand side, stores it
      * in rdata 
      */
 

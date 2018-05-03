@@ -53,7 +53,7 @@ int checkFinite(const int N,const realtype *array, const char* fun){
  * T must be numeric.
  */
 template <typename T>
-T product_of_arr(T* arr, int dim) {
+T arr_prod(T* arr, int dim) {
 	T result = 1;
 	for (int j = 0; j < dim; j++) {
 		result *= arr[j];
@@ -89,7 +89,7 @@ int ix_(int n, ...) {
 	// compute result ix
 	int ix = 0;
 	for (int j = 0; j < n_dims; j++) {
-		ix += product_of_arr(arr_dims, j) * arr_ixs[j];
+		ix += arr_prod(arr_dims, j) * arr_ixs[j];
 	}
 
 	return ix;
