@@ -1,0 +1,19 @@
+<map id="np" name="np">
+<area shape="rect" id="node2" href="$namespaceamici.html#aacdc2fc7895f234ad13713d2bd99870d" title="setModelData sets data from the matlab call to the model object " alt="" coords="602,138,744,165"/>
+<area shape="rect" id="node3" href="$classamici_1_1_model.html#a2afe974183e4bccaf746f6409941fe8f" title="Set the list of parameters for which sensitivities are computed. " alt="" coords="115,202,237,229"/>
+<area shape="rect" id="node4" href="$classamici_1_1_model.html#aa47922509b4e6ae5ff93e625f64b9785" title="Remove parameter scaling according to the parameter scaling in pscale. " alt="" coords="108,345,244,372"/>
+<area shape="rect" id="node13" href="$classamici_1_1_model.html#a9b03cc8dbac85d38ced3f59234ba27d9" title="Require computation of sensitivities for all parameters p [0..np[ in natural order. " alt="" coords="92,80,260,122"/>
+<area shape="rect" id="node15" href="$classamici_1_1_model.html#a87eb819581d1ca627e5d5ab35ae8add9" title="Reports whether the model has parameter names set. " alt="" coords="102,550,250,577"/>
+<area shape="rect" id="node17" href="$classamici_1_1_model.html#a216de46b6ca89c0bcc4f1c1418d2c06a" title="Reports whether the model has parameter ids set. " alt="" coords="115,410,237,437"/>
+<area shape="rect" id="node5" href="$classamici_1_1_model.html#a7e25febbfd9db80f64a4f73a2718bda7" title="Set ParameterScale for each parameter. " alt="" coords="355,189,490,216"/>
+<area shape="rect" id="node6" href="$classamici_1_1_model.html#af1e95f6479d442fcb4c63d16763d4acd" title="Sets the parameter vector. " alt="" coords="369,239,477,267"/>
+<area shape="rect" id="node7" href="$classamici_1_1_model.html#a995357a19663980279249d4b89a88f7a" title="Set value of first model parameter with the specified id. " alt="" coords="359,373,487,400"/>
+<area shape="rect" id="node8" href="$classamici_1_1_model.html#ab66d6b754637ed68449af96f5887a0be" title="Set all values of model parameters with ids matching the specified regex. " alt="" coords="336,423,509,451"/>
+<area shape="rect" id="node9" href="$classamici_1_1_model.html#a6c5ceb2ba684cf68a7f21ad865091200" title="Set value of first model parameter with the specified name. " alt="" coords="347,525,499,552"/>
+<area shape="rect" id="node10" href="$classamici_1_1_model.html#a1307ed45ccda80e84174d6b495c85d8d" title="Set all values of all model parameters with names matching the specified regex. " alt="" coords="324,575,522,603"/>
+<area shape="rect" id="node11" href="$classamici_1_1_return_data.html#adce202dc864a1e65d8453f597de271f5" title="amici::ReturnData::\lapplyChainRuleFactorToSimulation\lResults" alt="" coords="308,291,538,349"/>
+<area shape="rect" id="node12" href="$namespaceamici.html#a46331a204e7511587acc2cc0b1ce7ed0" title="amici::runAmiciSimulation" alt="" coords="586,306,760,333"/>
+<area shape="rect" id="node14" href="$classamici_1_1_model.html#ac267e6f3e952e5c924047c742bf0c5a7" title="Model" alt="" coords="394,37,452,64"/>
+<area shape="rect" id="node16" href="$classamici_1_1_model.html#a19b349ca9793d45fda7ef8ea7422747a" title="Get value of first model parameter with the specified name,. " alt="" coords="346,626,499,653"/>
+<area shape="rect" id="node18" href="$classamici_1_1_model.html#a4436bd89ae2cb032cbf13db478d99e15" title="Get value of first model parameter with the specified id. " alt="" coords="358,474,487,501"/>
+</map>

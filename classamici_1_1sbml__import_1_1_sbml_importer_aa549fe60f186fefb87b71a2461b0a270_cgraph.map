@@ -1,0 +1,5 @@
+<map id="writeModelHeader" name="writeModelHeader">
+<area shape="rect" id="node2" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a1280dbd6e4ab980a25798bf8d88670b9" title="Get SBML name initializer list for vector of names for the given model entity. " alt="" coords="195,5,389,33"/>
+<area shape="rect" id="node3" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#ae0027a630db3a61e19be3dfeaa166304" title="Get C++ initializer list for vector of names for the given model entity. " alt="" coords="207,56,378,83"/>
+<area shape="rect" id="node4" href="$namespaceamici_1_1sbml__import.html#a48216d1729cee722a7aa363d9ecc63c4" title="Load source file, apply template substitution as provided in templateData and save as targetFile..." alt="" coords="183,107,401,134"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="computeModelEquationsAdjointSensitivites" name="computeModelEquationsAdjointSensitivites">
+<area shape="rect" id="node2" href="$namespaceamici_1_1sbml__import.html#a986c53b165e78ab8ba560976b4506294" title="Get symbolic matrix with symbols prefix0..prefix(length&#45;1). " alt="" coords="262,5,464,33"/>
+<area shape="rect" id="node3" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#ab2f94e5b08034c5e07a26886369b71fd" title="Create sparse symbolic matrix. " alt="" coords="297,56,430,83"/>
+</map>

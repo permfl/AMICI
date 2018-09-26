@@ -1,0 +1,8 @@
+<map id="getSymbols" name="getSymbols">
+<area shape="rect" id="node2" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a8d851cd7e0fd6f00e3c85e615de3f796" title="Perform symbolic computations required for the use of various linear solvers. " alt="" coords="144,5,411,48"/>
+<area shape="rect" id="node5" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a1f587cc58599d48e31ce68804357b142" title="Perform symbolic computations required for any sensitivity analysis. " alt="" coords="144,72,411,115"/>
+<area shape="rect" id="node6" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a37b86397a43aca4fa926c6cfe6831f77" title="Perform symbolic computations required for forward sensitivity analysis. " alt="" coords="144,139,411,181"/>
+<area shape="rect" id="node7" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a3a4c18dff314f187d61553ee60a7c45e" title="Perform symbolic computations required for adjoint sensitivity analysis. " alt="" coords="144,205,411,248"/>
+<area shape="rect" id="node3" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a028d8f30b90a236b7f5e8335a6e87ff4" title="Perform symbolic computations required to populate functions in self.functions. " alt="" coords="459,105,726,148"/>
+<area shape="rect" id="node4" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a83900bb62c0121eb798939a6d4232a9c" title="Generate AMICI C++ files for the model provided to the constructor. " alt="" coords="774,113,1056,140"/>
+</map>

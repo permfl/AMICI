@@ -1,0 +1,10 @@
+<map id="applyNewtonsMethod" name="applyNewtonsMethod">
+<area shape="rect" id="node2" href="$classamici_1_1_ami_vector.html#ad20897c5c8bd47f5d4005989bead0e55" title="amici::AmiVector::reset" alt="" coords="221,5,379,33"/>
+<area shape="rect" id="node3" href="$classamici_1_1_model.html#a30b9be6c722585f984c9406d8831703e" title="amici::Model::fxdot" alt="" coords="234,56,366,83"/>
+<area shape="rect" id="node4" href="$classamici_1_1_ami_vector.html#acf288b105b2fa4520d0d73f828687533" title="amici::AmiVector::getNVector" alt="" coords="203,107,397,134"/>
+<area shape="rect" id="node5" href="$classamici_1_1_newton_solver.html#a7b71b3735b6ca62570266f9d6fce33cb" title="amici::NewtonSolver\l::getStep" alt="" coords="228,158,371,200"/>
+<area shape="rect" id="node9" href="$namespaceamici.html#ad41a03e53c2aaeeb82aad5791bf3ee28" title="amici::getNaN" alt="" coords="247,224,352,251"/>
+<area shape="rect" id="node6" href="$classamici_1_1_newton_solver.html#a4aed46b0343374f171f9b4b51fa009e7" title="amici::NewtonSolver\l::prepareLinearSystem" alt="" coords="449,99,605,142"/>
+<area shape="rect" id="node7" href="$classamici_1_1_ami_vector.html#a19ad39a609bfc430ed6f7992e841b024" title="amici::AmiVector::minus" alt="" coords="445,165,608,193"/>
+<area shape="rect" id="node8" href="$classamici_1_1_newton_solver.html#a761a5dc9e8cc7adfd4a392421df17c3d" title="amici::NewtonSolver\l::solveLinearSystem" alt="" coords="455,216,598,259"/>
+</map>

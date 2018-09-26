@@ -1,0 +1,9 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$namespaceamici.html#a186dd3debfe185669f305464f161e4bb" title="amici::expDataFromMatlabCall" alt="" coords="151,107,355,134"/>
+<area shape="rect" id="node8" href="$classamici_1_1_ami_exception.html#a79009ed133fa02b942ddce8f0b987f3e" title="amici::AmiException\l::what" alt="" coords="182,158,323,200"/>
+<area shape="rect" id="node3" href="$namespaceamici.html#a980cf029aff8cab806e35bdbdd3375f5" title="Convenience wrapper for ExpData constructor. " alt="" coords="434,5,541,33"/>
+<area shape="rect" id="node4" href="$classamici_1_1_model.html#a4c23d300cbe15b0afb1ee3731d47cc93" title="Get number of timepoints. " alt="" coords="430,56,545,83"/>
+<area shape="rect" id="node5" href="$namespaceamici.html#af8f91dbb6a395a9907c59dd92991ec18" title="amici::mxArrayToVector" alt="" coords="407,107,568,134"/>
+<area shape="rect" id="node6" href="$classamici_1_1_model.html#ac6ea00eafac9ec7be198bca04b19f4c3" title="Get nmaxevent. " alt="" coords="403,157,573,185"/>
+<area shape="rect" id="node7" href="$classamici_1_1_model.html#a3d4130da64883565a06a86e7d6029da1" title="number of constants " alt="" coords="429,208,547,235"/>
+</map>

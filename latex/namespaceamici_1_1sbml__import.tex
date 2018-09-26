@@ -1,0 +1,220 @@
+\hypertarget{namespaceamici_1_1sbml__import}{}\subsection{amici.\+sbml\+\_\+import Namespace Reference}
+\label{namespaceamici_1_1sbml__import}\index{amici.\+sbml\+\_\+import@{amici.\+sbml\+\_\+import}}
+
+
+The python sbml import module for python.  
+
+
+\subsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{classamici_1_1sbml__import_1_1_s_b_m_l_exception}{S\+B\+M\+L\+Exception}}
+\item 
+class \mbox{\hyperlink{classamici_1_1sbml__import_1_1_sbml_importer}{Sbml\+Importer}}
+\begin{DoxyCompactList}\small\item\em The \mbox{\hyperlink{classamici_1_1sbml__import_1_1_sbml_importer}{Sbml\+Importer}} class generates A\+M\+I\+CI C++ files for a model provided in the Systems Biology Markup Language (S\+B\+ML). \end{DoxyCompactList}\item 
+class \mbox{\hyperlink{classamici_1_1sbml__import_1_1_template_amici}{Template\+Amici}}
+\begin{DoxyCompactList}\small\item\em Template format used in A\+M\+I\+CI (see string.\+template for more details). \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{namespaceamici_1_1sbml__import_a48216d1729cee722a7aa363d9ecc63c4}{apply\+Template}} (source\+File, target\+File, template\+Data)
+\begin{DoxyCompactList}\small\item\em Load source file, apply template substitution as provided in template\+Data and save as target\+File. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespaceamici_1_1sbml__import_a986c53b165e78ab8ba560976b4506294}{get\+Symbols}} (prefix, length)
+\begin{DoxyCompactList}\small\item\em Get symbolic matrix with symbols prefix0..prefix(length-\/1). \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespaceamici_1_1sbml__import_a1d4d368d095429428738451ae90d911f}{get\+Symbolic\+Diagonal}} (matrix)
+\begin{DoxyCompactList}\small\item\em Get symbolic matrix with diagonal of matrix {\ttfamily matrix}. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespaceamici_1_1sbml__import_a64a5d0187cb4b3f69bceceb7d5638691}{get\+Rule\+Vars}} (rules)
+\begin{DoxyCompactList}\small\item\em Extract free symbols in S\+B\+ML rule formulas. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespaceamici_1_1sbml__import_aaba72ac8b7d363e7720f36495ccc3285}{assignment\+Rules2observables}} (sbml\+\_\+model, filter\+\_\+function=lambda $\ast$\+\_\+\+:\+True)
+\begin{DoxyCompactList}\small\item\em Turn assignment rules into observables. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespaceamici_1_1sbml__import_a9cee719122a45a0ac8590514a19ed5cc}{constant\+Species\+To\+Parameters}} (sbml\+\_\+model)
+\begin{DoxyCompactList}\small\item\em Convert constant species in the S\+B\+ML model to constant parameters. \end{DoxyCompactList}\item 
+def \mbox{\hyperlink{namespaceamici_1_1sbml__import_a178c633ce1bc7f2af378ce56bd404541}{replace\+Log\+AB}} (x)
+\begin{DoxyCompactList}\small\item\em Replace log(a, b) in the given string by ln(b)/ln(a) \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsubsection{Detailed Description}
+!/usr/bin/env python3 
+
+\subsubsection{Function Documentation}
+\mbox{\Hypertarget{namespaceamici_1_1sbml__import_a48216d1729cee722a7aa363d9ecc63c4}\label{namespaceamici_1_1sbml__import_a48216d1729cee722a7aa363d9ecc63c4}} 
+\index{amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}!apply\+Template@{apply\+Template}}
+\index{apply\+Template@{apply\+Template}!amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}}
+\paragraph{\texorpdfstring{apply\+Template()}{applyTemplate()}}
+{\footnotesize\ttfamily def amici.\+sbml\+\_\+import.\+apply\+Template (\begin{DoxyParamCaption}\item[{}]{source\+File,  }\item[{}]{target\+File,  }\item[{}]{template\+Data }\end{DoxyParamCaption})}
+
+
+\begin{DoxyParams}{Parameters}
+{\em source\+File} & relative or absolute path to template file \\
+\hline
+{\em target\+File} & relative or absolute path to output file \\
+\hline
+{\em template\+Data} & dictionary with template keywords to substitute (key is template variable without \mbox{\hyperlink{classamici_1_1sbml__import_1_1_template_amici_aacf4e58be14eef37272a71c004bc3f58}{Template\+Amici.\+delimiter}})\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+
+
+Definition at line 1710 of file sbml\+\_\+import.\+py.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{namespaceamici_1_1sbml__import_a48216d1729cee722a7aa363d9ecc63c4_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{namespaceamici_1_1sbml__import_a986c53b165e78ab8ba560976b4506294}\label{namespaceamici_1_1sbml__import_a986c53b165e78ab8ba560976b4506294}} 
+\index{amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}!get\+Symbols@{get\+Symbols}}
+\index{get\+Symbols@{get\+Symbols}!amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}}
+\paragraph{\texorpdfstring{get\+Symbols()}{getSymbols()}}
+{\footnotesize\ttfamily def amici.\+sbml\+\_\+import.\+get\+Symbols (\begin{DoxyParamCaption}\item[{}]{prefix,  }\item[{}]{length }\end{DoxyParamCaption})}
+
+
+\begin{DoxyParams}{Parameters}
+{\em prefix} & variable name \\
+\hline
+{\em length} & number of symbolic variables + 1\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+A symbolic matrix with symbols prefix0..prefix(length-\/1) 
+\end{DoxyReturn}
+
+
+Definition at line 1729 of file sbml\+\_\+import.\+py.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{namespaceamici_1_1sbml__import_a986c53b165e78ab8ba560976b4506294_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{namespaceamici_1_1sbml__import_a1d4d368d095429428738451ae90d911f}\label{namespaceamici_1_1sbml__import_a1d4d368d095429428738451ae90d911f}} 
+\index{amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}!get\+Symbolic\+Diagonal@{get\+Symbolic\+Diagonal}}
+\index{get\+Symbolic\+Diagonal@{get\+Symbolic\+Diagonal}!amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}}
+\paragraph{\texorpdfstring{get\+Symbolic\+Diagonal()}{getSymbolicDiagonal()}}
+{\footnotesize\ttfamily def amici.\+sbml\+\_\+import.\+get\+Symbolic\+Diagonal (\begin{DoxyParamCaption}\item[{}]{matrix }\end{DoxyParamCaption})}
+
+
+\begin{DoxyParams}{Parameters}
+{\em matrix} & Matrix from which to return the diagonal\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+A Symbolic matrix with the diagonal of {\ttfamily matrix}.
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em Exception} & The provided matrix was not square \\
+\hline
+\end{DoxyExceptions}
+
+
+Definition at line 1744 of file sbml\+\_\+import.\+py.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{namespaceamici_1_1sbml__import_a1d4d368d095429428738451ae90d911f_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{namespaceamici_1_1sbml__import_a64a5d0187cb4b3f69bceceb7d5638691}\label{namespaceamici_1_1sbml__import_a64a5d0187cb4b3f69bceceb7d5638691}} 
+\index{amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}!get\+Rule\+Vars@{get\+Rule\+Vars}}
+\index{get\+Rule\+Vars@{get\+Rule\+Vars}!amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}}
+\paragraph{\texorpdfstring{get\+Rule\+Vars()}{getRuleVars()}}
+{\footnotesize\ttfamily def amici.\+sbml\+\_\+import.\+get\+Rule\+Vars (\begin{DoxyParamCaption}\item[{}]{rules }\end{DoxyParamCaption})}
+
+
+\begin{DoxyParams}{Parameters}
+{\em rules} & list of rules\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Vector of free symbolic variables in the formulas all provided rules 
+\end{DoxyReturn}
+
+
+Definition at line 1763 of file sbml\+\_\+import.\+py.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{namespaceamici_1_1sbml__import_a64a5d0187cb4b3f69bceceb7d5638691_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{namespaceamici_1_1sbml__import_aaba72ac8b7d363e7720f36495ccc3285}\label{namespaceamici_1_1sbml__import_aaba72ac8b7d363e7720f36495ccc3285}} 
+\index{amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}!assignment\+Rules2observables@{assignment\+Rules2observables}}
+\index{assignment\+Rules2observables@{assignment\+Rules2observables}!amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}}
+\paragraph{\texorpdfstring{assignment\+Rules2observables()}{assignmentRules2observables()}}
+{\footnotesize\ttfamily def amici.\+sbml\+\_\+import.\+assignment\+Rules2observables (\begin{DoxyParamCaption}\item[{}]{sbml\+\_\+model,  }\item[{}]{filter\+\_\+function = {\ttfamily lambda~$\ast$\+\_\+\+:~True} }\end{DoxyParamCaption})}
+
+
+\begin{DoxyParams}{Parameters}
+{\em sbml\+\_\+model} & an sbml \mbox{\hyperlink{classamici_1_1_model}{Model}} instance \\
+\hline
+{\em filter\+\_\+function} & callback function taking assignment variable as input and returning True/\+False to indicate if the respective rule should be turned into an observable\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+A dictionary(observable\+Id\+:\{\textquotesingle{}name\textquotesingle{}\+:observable\+Namem, \textquotesingle{}formula\textquotesingle{}\+:formula\+String\}) 
+\end{DoxyReturn}
+
+
+Definition at line 1798 of file sbml\+\_\+import.\+py.
+
+\mbox{\Hypertarget{namespaceamici_1_1sbml__import_a9cee719122a45a0ac8590514a19ed5cc}\label{namespaceamici_1_1sbml__import_a9cee719122a45a0ac8590514a19ed5cc}} 
+\index{amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}!constant\+Species\+To\+Parameters@{constant\+Species\+To\+Parameters}}
+\index{constant\+Species\+To\+Parameters@{constant\+Species\+To\+Parameters}!amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}}
+\paragraph{\texorpdfstring{constant\+Species\+To\+Parameters()}{constantSpeciesToParameters()}}
+{\footnotesize\ttfamily def amici.\+sbml\+\_\+import.\+constant\+Species\+To\+Parameters (\begin{DoxyParamCaption}\item[{}]{sbml\+\_\+model }\end{DoxyParamCaption})}
+
+
+\begin{DoxyParams}{Parameters}
+{\em sbml\+\_\+model} & libsbml model instance \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+species I\+Ds that have been turned into constants 
+\end{DoxyReturn}
+
+
+Definition at line 1827 of file sbml\+\_\+import.\+py.
+
+\mbox{\Hypertarget{namespaceamici_1_1sbml__import_a178c633ce1bc7f2af378ce56bd404541}\label{namespaceamici_1_1sbml__import_a178c633ce1bc7f2af378ce56bd404541}} 
+\index{amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}!replace\+Log\+AB@{replace\+Log\+AB}}
+\index{replace\+Log\+AB@{replace\+Log\+AB}!amici\+::sbml\+\_\+import@{amici\+::sbml\+\_\+import}}
+\paragraph{\texorpdfstring{replace\+Log\+A\+B()}{replaceLogAB()}}
+{\footnotesize\ttfamily def amici.\+sbml\+\_\+import.\+replace\+Log\+AB (\begin{DoxyParamCaption}\item[{}]{x }\end{DoxyParamCaption})}
+
+Works for nested parentheses and nested \textquotesingle{}log\textquotesingle{}s. This can be used to circumvent the incompatible argument order between symengine (log(x, basis)) and libsbml (log(basis, x)).
+
+
+\begin{DoxyParams}{Parameters}
+{\em x} & string to replace \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+string with replaced \textquotesingle{}log\textquotesingle{}s 
+\end{DoxyReturn}
+
+
+Definition at line 1871 of file sbml\+\_\+import.\+py.
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{namespaceamici_1_1sbml__import_a178c633ce1bc7f2af378ce56bd404541_icgraph}
+\end{center}
+\end{figure}

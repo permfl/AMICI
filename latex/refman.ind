@@ -1,0 +1,2619 @@
+\begin{theindex}
+
+  \item {\+\_\+\+U\+S\+E\+\_\+\+M\+A\+T\+H\+\_\+\+D\+E\+F\+I\+N\+ES}
+    \subitem {amici.\+cpp}, \hyperpage{528}
+  \item {\+\_\+\+\_\+init\+\_\+\+\_\+}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{365}
+  \item {$\sim$\+Model}
+    \subitem {amici\+::\+Model}, \hyperpage{149}
+
+  \indexspace
+
+  \item {adj\+Init}
+    \subitem {amici\+::\+Solver}, \hyperpage{438}
+  \item {adjoint}
+    \subitem {amimodel}, \hyperpage{493}
+  \item {allocate\+Solver}
+    \subitem {amici\+::\+Solver}, \hyperpage{432}
+  \item {allocate\+SolverB}
+    \subitem {amici\+::\+Solver}, \hyperpage{438}
+  \item {am\+\_\+and}
+    \subitem {am\+\_\+and.\+m}, \hyperpage{515}
+  \item {am\+\_\+and.\+m}, \hyperpage{515}
+    \subitem {am\+\_\+and}, \hyperpage{515}
+  \item {am\+\_\+eq}
+    \subitem {am\+\_\+eq.\+m}, \hyperpage{517}
+  \item {am\+\_\+eq.\+m}, \hyperpage{516}
+    \subitem {am\+\_\+eq}, \hyperpage{517}
+  \item {am\+\_\+ge}
+    \subitem {am\+\_\+ge.\+m}, \hyperpage{517}
+  \item {am\+\_\+ge.\+m}, \hyperpage{517}
+    \subitem {am\+\_\+ge}, \hyperpage{517}
+  \item {am\+\_\+gt}
+    \subitem {am\+\_\+gt.\+m}, \hyperpage{518}
+  \item {am\+\_\+gt.\+m}, \hyperpage{518}
+    \subitem {am\+\_\+gt}, \hyperpage{518}
+  \item {am\+\_\+if}
+    \subitem {am\+\_\+if.\+m}, \hyperpage{519}
+  \item {am\+\_\+if.\+m}, \hyperpage{519}
+    \subitem {am\+\_\+if}, \hyperpage{519}
+  \item {am\+\_\+le}
+    \subitem {am\+\_\+le.\+m}, \hyperpage{520}
+  \item {am\+\_\+le.\+m}, \hyperpage{520}
+    \subitem {am\+\_\+le}, \hyperpage{520}
+  \item {am\+\_\+lt}
+    \subitem {am\+\_\+lt.\+m}, \hyperpage{521}
+  \item {am\+\_\+lt.\+m}, \hyperpage{521}
+    \subitem {am\+\_\+lt}, \hyperpage{521}
+  \item {am\+\_\+max}
+    \subitem {am\+\_\+max.\+m}, \hyperpage{522}
+  \item {am\+\_\+max.\+m}, \hyperpage{522}
+    \subitem {am\+\_\+max}, \hyperpage{522}
+  \item {am\+\_\+min}
+    \subitem {am\+\_\+min.\+m}, \hyperpage{523}
+  \item {am\+\_\+min.\+m}, \hyperpage{523}
+    \subitem {am\+\_\+min}, \hyperpage{523}
+  \item {am\+\_\+or}
+    \subitem {am\+\_\+or.\+m}, \hyperpage{524}
+  \item {am\+\_\+or.\+m}, \hyperpage{524}
+    \subitem {am\+\_\+or}, \hyperpage{524}
+  \item {am\+\_\+piecewise}
+    \subitem {am\+\_\+piecewise.\+m}, \hyperpage{525}
+  \item {am\+\_\+piecewise.\+m}, \hyperpage{525}
+    \subitem {am\+\_\+piecewise}, \hyperpage{525}
+  \item {am\+\_\+stepfun}
+    \subitem {am\+\_\+stepfun.\+m}, \hyperpage{526}
+  \item {am\+\_\+stepfun.\+m}, \hyperpage{526}
+    \subitem {am\+\_\+stepfun}, \hyperpage{526}
+  \item {am\+\_\+xor}
+    \subitem {am\+\_\+xor.\+m}, \hyperpage{527}
+  \item {am\+\_\+xor.\+m}, \hyperpage{527}
+    \subitem {am\+\_\+xor}, \hyperpage{527}
+  \item {Ami\+Exception}, \hyperpage{76}
+    \subitem {amici\+::\+Ami\+Exception}, \hyperpage{77, 78}
+  \item {Ami\+Vector}, \hyperpage{80}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{80, 81}
+  \item {Ami\+Vector\+Array}, \hyperpage{88}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{89}
+  \item {amici}, \hyperpage{14}
+    \subitem {amici\+\_\+blas\+C\+Blas\+Trans\+To\+Blas\+Trans}, 
+		\hyperpage{66}
+    \subitem {amici\+\_\+daxpy}, \hyperpage{27}
+    \subitem {amici\+\_\+dgemm}, \hyperpage{25}
+    \subitem {amici\+\_\+dgemv}, \hyperpage{24}
+    \subitem {amici\+\_\+path}, \hyperpage{70}
+    \subitem {B\+L\+A\+S\+Layout}, \hyperpage{19}
+    \subitem {B\+L\+A\+S\+Transpose}, \hyperpage{19}
+    \subitem {check\+Field\+Names}, \hyperpage{42}
+    \subitem {check\+Finite}, \hyperpage{32}
+    \subitem {D\+Dspline}, \hyperpage{61}
+    \subitem {D\+Dspline\+\_\+pos}, \hyperpage{61}
+    \subitem {dbl2int}, \hyperpage{65}
+    \subitem {deserialize\+From\+Char}, \hyperpage{44}
+    \subitem {deserialize\+From\+String}, \hyperpage{45}
+    \subitem {dirac}, \hyperpage{50}
+    \subitem {Dmax}, \hyperpage{53}
+    \subitem {Dmin}, \hyperpage{52}
+    \subitem {Dspline}, \hyperpage{59}
+    \subitem {Dspline\+\_\+pos}, \hyperpage{60}
+    \subitem {err\+Msg\+Id\+And\+Txt}, \hyperpage{70}
+    \subitem {Exp\+Data}, \hyperpage{63}
+    \subitem {exp\+Data\+From\+Matlab\+Call}, \hyperpage{31}
+    \subitem {get\+NaN}, \hyperpage{56}
+    \subitem {get\+Return\+Data\+Matlab\+From\+Amici\+Call}, 
+		\hyperpage{33}
+    \subitem {get\+Value\+By\+Id}, \hyperpage{67}
+    \subitem {heaviside}, \hyperpage{51}
+    \subitem {init\+And\+Attach\+Array}, \hyperpage{41}
+    \subitem {init\+Matlab\+Diagnosis\+Fields}, \hyperpage{35}
+    \subitem {init\+Matlab\+Return\+Fields}, \hyperpage{34}
+    \subitem {Internal\+Sensitivity\+Method}, \hyperpage{21}
+    \subitem {Interpolation\+Type}, \hyperpage{21}
+    \subitem {is\+Inf}, \hyperpage{55}
+    \subitem {is\+NaN}, \hyperpage{54}
+    \subitem {Linear\+Multistep\+Method}, \hyperpage{21}
+    \subitem {Linear\+Solver}, \hyperpage{20}
+    \subitem {log}, \hyperpage{50}
+    \subitem {max}, \hyperpage{52}
+    \subitem {min}, \hyperpage{51}
+    \subitem {msg\+Id\+And\+Txt\+Fp}, \hyperpage{19}
+    \subitem {mx\+Array\+To\+Vector}, \hyperpage{66}
+    \subitem {Newton\+Status}, \hyperpage{22}
+    \subitem {Nonlinear\+Solver\+Iteration}, \hyperpage{21}
+    \subitem {operator==}, \hyperpage{33}, \hyperpage{46}
+    \subitem {Parameter\+Scaling}, \hyperpage{20}
+    \subitem {pi}, \hyperpage{70}
+    \subitem {pos\+\_\+pow}, \hyperpage{54}
+    \subitem {print\+Err\+Msg\+Id\+And\+Txt}, \hyperpage{22}
+    \subitem {print\+Warn\+Msg\+Id\+And\+Txt}, \hyperpage{23}
+    \subitem {realtype}, \hyperpage{19}
+    \subitem {reorder}, \hyperpage{43}
+    \subitem {run\+Amici\+Simulation}, \hyperpage{23}, \hyperpage{62}
+    \subitem {run\+Amici\+Simulations}, \hyperpage{64}
+    \subitem {Second\+Order\+Mode}, \hyperpage{20}
+    \subitem {Sensitivity\+Method}, \hyperpage{20}
+    \subitem {Sensitivity\+Order}, \hyperpage{20}
+    \subitem {serialize\+To\+Char}, \hyperpage{44}
+    \subitem {serialize\+To\+Std\+Vec}, \hyperpage{45}
+    \subitem {serialize\+To\+String}, \hyperpage{45}
+    \subitem {set\+Model\+Data}, \hyperpage{28}
+    \subitem {set\+Solver\+Options}, \hyperpage{29}
+    \subitem {set\+Value\+By\+Id}, \hyperpage{68}
+    \subitem {set\+Value\+By\+Id\+Regex}, \hyperpage{69}
+    \subitem {setup\+Return\+Data}, \hyperpage{30}
+    \subitem {seval}, \hyperpage{47}
+    \subitem {sign}, \hyperpage{57}
+    \subitem {sinteg}, \hyperpage{49}
+    \subitem {spline}, \hyperpage{46}, \hyperpage{57}
+    \subitem {spline\+\_\+pos}, \hyperpage{58}
+    \subitem {State\+Ordering}, \hyperpage{21}
+    \subitem {Steady\+State\+Sensitivity\+Mode}, \hyperpage{22}
+    \subitem {warn\+Msg\+Id\+And\+Txt}, \hyperpage{70}
+    \subitem {write\+Matlab\+Field0}, \hyperpage{36}
+    \subitem {write\+Matlab\+Field1}, \hyperpage{37}
+    \subitem {write\+Matlab\+Field2}, \hyperpage{38}
+    \subitem {write\+Matlab\+Field3}, \hyperpage{39}
+    \subitem {write\+Matlab\+Field4}, \hyperpage{40}
+  \item {amici.\+cpp}, \hyperpage{528}
+    \subitem {\+\_\+\+U\+S\+E\+\_\+\+M\+A\+T\+H\+\_\+\+D\+E\+F\+I\+N\+ES}, 
+		\hyperpage{528}
+    \subitem {M\+\_\+\+PI}, \hyperpage{529}
+  \item {amici.\+plotting}, \hyperpage{71}
+  \item {amici.\+sbml\+\_\+import}, \hyperpage{72}
+  \item {amici\+::\+Ami\+Exception}
+    \subitem {Ami\+Exception}, \hyperpage{77, 78}
+    \subitem {get\+Backtrace}, \hyperpage{79}
+    \subitem {store\+Backtrace}, \hyperpage{79}
+    \subitem {what}, \hyperpage{78}
+  \item {amici\+::\+Ami\+Vector}
+    \subitem {Ami\+Vector}, \hyperpage{80, 81}
+    \subitem {at}, \hyperpage{88}
+    \subitem {data}, \hyperpage{82, 83}
+    \subitem {get\+Length}, \hyperpage{86}
+    \subitem {get\+N\+Vector}, \hyperpage{84}
+    \subitem {get\+Vector}, \hyperpage{85}
+    \subitem {minus}, \hyperpage{86}
+    \subitem {operator=}, \hyperpage{81}
+    \subitem {operator[]}, \hyperpage{87}
+    \subitem {reset}, \hyperpage{86}
+    \subitem {set}, \hyperpage{87}
+  \item {amici\+::\+Ami\+Vector\+Array}
+    \subitem {Ami\+Vector\+Array}, \hyperpage{89}
+    \subitem {at}, \hyperpage{91}
+    \subitem {data}, \hyperpage{90, 91}
+    \subitem {get\+Length}, \hyperpage{93}
+    \subitem {get\+N\+Vector}, \hyperpage{92}
+    \subitem {get\+N\+Vector\+Array}, \hyperpage{92}
+    \subitem {operator[]}, \hyperpage{93}
+    \subitem {reset}, \hyperpage{94}
+  \item {amici\+::\+Backward\+Problem}
+    \subitem {Backward\+Problem}, \hyperpage{95}
+    \subitem {getd\+Jydx}, \hyperpage{99}
+    \subitem {getdx\+Bptr}, \hyperpage{99}
+    \subitem {gett}, \hyperpage{96}
+    \subitem {getwhich}, \hyperpage{97}
+    \subitem {getwhichptr}, \hyperpage{97}
+    \subitem {getx\+Bptr}, \hyperpage{98}
+    \subitem {getx\+Q\+Bptr}, \hyperpage{98}
+    \subitem {work\+Backward\+Problem}, \hyperpage{96}
+  \item {amici\+::\+Cvode\+Exception}
+    \subitem {Cvode\+Exception}, \hyperpage{101}
+  \item {amici\+::\+Exp\+Data}
+    \subitem {check\+Data\+Dimension}, \hyperpage{124}
+    \subitem {check\+Events\+Dimension}, \hyperpage{124}
+    \subitem {check\+Sigma\+Positivity}, \hyperpage{125, 126}
+    \subitem {Exp\+Data}, \hyperpage{103--106}
+    \subitem {fixed\+Parameters}, \hyperpage{127}
+    \subitem {fixed\+Parameters\+Preequilibration}, \hyperpage{127}
+    \subitem {fixed\+Parameters\+Presimulation}, \hyperpage{127}
+    \subitem {get\+Observed\+Data}, \hyperpage{111}
+    \subitem {get\+Observed\+Data\+Ptr}, \hyperpage{111}
+    \subitem {get\+Observed\+Data\+Std\+Dev}, \hyperpage{116}
+    \subitem {get\+Observed\+Data\+Std\+Dev\+Ptr}, \hyperpage{116}
+    \subitem {get\+Observed\+Events}, \hyperpage{118}
+    \subitem {get\+Observed\+Events\+Ptr}, \hyperpage{119}
+    \subitem {get\+Observed\+Events\+Std\+Dev}, \hyperpage{123}
+    \subitem {get\+Observed\+Events\+Std\+Dev\+Ptr}, \hyperpage{123}
+    \subitem {get\+Timepoint}, \hyperpage{109}
+    \subitem {get\+Timepoints}, \hyperpage{108}
+    \subitem {is\+Set\+Observed\+Data}, \hyperpage{110}
+    \subitem {is\+Set\+Observed\+Data\+Std\+Dev}, \hyperpage{115}
+    \subitem {is\+Set\+Observed\+Events}, \hyperpage{118}
+    \subitem {is\+Set\+Observed\+Events\+Std\+Dev}, \hyperpage{122}
+    \subitem {nmaxevent}, \hyperpage{126}
+    \subitem {nt}, \hyperpage{107}
+    \subitem {nytrue}, \hyperpage{126}
+    \subitem {nztrue}, \hyperpage{126}
+    \subitem {observed\+Data}, \hyperpage{127}
+    \subitem {observed\+Data\+Std\+Dev}, \hyperpage{128}
+    \subitem {observed\+Events}, \hyperpage{128}
+    \subitem {observed\+Events\+Std\+Dev}, \hyperpage{128}
+    \subitem {set\+Observed\+Data}, \hyperpage{109, 110}
+    \subitem {set\+Observed\+Data\+Std\+Dev}, \hyperpage{112--114}
+    \subitem {set\+Observed\+Events}, \hyperpage{117}
+    \subitem {set\+Observed\+Events\+Std\+Dev}, \hyperpage{119--121}
+    \subitem {set\+Timepoints}, \hyperpage{107}
+    \subitem {ts}, \hyperpage{127}
+  \item {amici\+::\+Forward\+Problem}
+    \subitem {edata}, \hyperpage{136}
+    \subitem {Forward\+Problem}, \hyperpage{129}
+    \subitem {get\+D\+Jydx}, \hyperpage{133}
+    \subitem {get\+D\+Jzdx}, \hyperpage{133}
+    \subitem {get\+Discontinuities}, \hyperpage{132}
+    \subitem {get\+Number\+Of\+Roots}, \hyperpage{132}
+    \subitem {get\+R\+H\+S\+At\+Discontinuities}, \hyperpage{131}
+    \subitem {get\+R\+H\+S\+Before\+Discontinuities}, \hyperpage{132}
+    \subitem {get\+Root\+Counter}, \hyperpage{133}
+    \subitem {get\+Root\+Indexes}, \hyperpage{132}
+    \subitem {get\+State\+Derivative\+Pointer}, \hyperpage{134}
+    \subitem {get\+State\+Derivative\+Sensitivity\+Pointer}, 
+		\hyperpage{135}
+    \subitem {get\+State\+Pointer}, \hyperpage{134}
+    \subitem {get\+State\+Sensitivity}, \hyperpage{131}
+    \subitem {get\+State\+Sensitivity\+Pointer}, \hyperpage{134}
+    \subitem {get\+States\+At\+Discontinuities}, \hyperpage{131}
+    \subitem {get\+Time}, \hyperpage{130}
+    \subitem {model}, \hyperpage{135}
+    \subitem {rdata}, \hyperpage{135}
+    \subitem {solver}, \hyperpage{135}
+    \subitem {work\+Forward\+Problem}, \hyperpage{130}
+  \item {amici\+::\+I\+D\+A\+Exception}
+    \subitem {I\+D\+A\+Exception}, \hyperpage{137}
+  \item {amici\+::\+Integration\+Failure}
+    \subitem {error\+\_\+code}, \hyperpage{138}
+    \subitem {Integration\+Failure}, \hyperpage{138}
+    \subitem {time}, \hyperpage{138}
+  \item {amici\+::\+Integration\+FailureB}
+    \subitem {error\+\_\+code}, \hyperpage{140}
+    \subitem {Integration\+FailureB}, \hyperpage{139}
+    \subitem {time}, \hyperpage{140}
+  \item {amici\+::\+Model}
+    \subitem {$\sim$\+Model}, \hyperpage{149}
+    \subitem {boost\+::serialization\+::serialize}, \hyperpage{257}
+    \subitem {check\+Finite}, \hyperpage{214}
+    \subitem {clone}, \hyperpage{150}
+    \subitem {d\+Jrzdsigma}, \hyperpage{265}
+    \subitem {d\+Jrzdz}, \hyperpage{265}
+    \subitem {d\+Jydp}, \hyperpage{262}
+    \subitem {d\+Jydsigma}, \hyperpage{264}
+    \subitem {d\+Jydy}, \hyperpage{264}
+    \subitem {d\+Jzdp}, \hyperpage{262}
+    \subitem {d\+Jzdsigma}, \hyperpage{264}
+    \subitem {d\+Jzdz}, \hyperpage{264}
+    \subitem {deltaqB}, \hyperpage{263}
+    \subitem {deltasx}, \hyperpage{262}
+    \subitem {deltax}, \hyperpage{262}
+    \subitem {deltaxB}, \hyperpage{263}
+    \subitem {drzdp}, \hyperpage{266}
+    \subitem {drzdx}, \hyperpage{265}
+    \subitem {dsigmaydp}, \hyperpage{261}
+    \subitem {dsigmazdp}, \hyperpage{262}
+    \subitem {dwdp}, \hyperpage{267}
+    \subitem {dwdx}, \hyperpage{266}
+    \subitem {dxdotdp}, \hyperpage{263}
+    \subitem {dydp}, \hyperpage{266}
+    \subitem {dydx}, \hyperpage{266}
+    \subitem {dzdp}, \hyperpage{265}
+    \subitem {dzdx}, \hyperpage{265}
+    \subitem {f\+F\+IM}, \hyperpage{213}
+    \subitem {f\+J\+Diag}, \hyperpage{153}
+    \subitem {f\+J\+Sparse}, \hyperpage{153}
+    \subitem {f\+Jrz}, \hyperpage{175}, \hyperpage{244}
+    \subitem {f\+Jv}, \hyperpage{154}
+    \subitem {f\+Jy}, \hyperpage{173}, \hyperpage{243}
+    \subitem {f\+Jz}, \hyperpage{174}, \hyperpage{244}
+    \subitem {fchi2}, \hyperpage{212}
+    \subitem {fd\+Jrzdsigma}, \hyperpage{179}, \hyperpage{247}
+    \subitem {fd\+Jrzdz}, \hyperpage{178}, \hyperpage{247}
+    \subitem {fd\+Jydp}, \hyperpage{181}
+    \subitem {fd\+Jydsigma}, \hyperpage{176}, \hyperpage{245}
+    \subitem {fd\+Jydx}, \hyperpage{182}
+    \subitem {fd\+Jydy}, \hyperpage{175}, \hyperpage{245}
+    \subitem {fd\+Jzdp}, \hyperpage{184}
+    \subitem {fd\+Jzdsigma}, \hyperpage{177}, \hyperpage{246}
+    \subitem {fd\+Jzdx}, \hyperpage{184}
+    \subitem {fd\+Jzdz}, \hyperpage{177}, \hyperpage{246}
+    \subitem {fdeltaqB}, \hyperpage{170}, \hyperpage{241}
+    \subitem {fdeltasx}, \hyperpage{168}, \hyperpage{240}
+    \subitem {fdeltax}, \hyperpage{167}, \hyperpage{238}
+    \subitem {fdeltaxB}, \hyperpage{169}, \hyperpage{240}
+    \subitem {fdrzdp}, \hyperpage{166}, \hyperpage{237}
+    \subitem {fdrzdx}, \hyperpage{167}, \hyperpage{238}
+    \subitem {fdsigmaydp}, \hyperpage{171}, \hyperpage{242}
+    \subitem {fdsigmazdp}, \hyperpage{172}, \hyperpage{243}
+    \subitem {fdwdp}, \hyperpage{208}, \hyperpage{248}
+    \subitem {fdwdx}, \hyperpage{209}, \hyperpage{249}
+    \subitem {fdx0}, \hyperpage{157}
+    \subitem {fdxdotdp}, \hyperpage{154}
+    \subitem {fdydp}, \hyperpage{160}, \hyperpage{233}
+    \subitem {fdydx}, \hyperpage{161}, \hyperpage{234}
+    \subitem {fdzdp}, \hyperpage{165}, \hyperpage{236}
+    \subitem {fdzdx}, \hyperpage{166}, \hyperpage{237}
+    \subitem {fixed\+Parameters}, \hyperpage{268}
+    \subitem {fJ}, \hyperpage{152}
+    \subitem {fres}, \hyperpage{211}
+    \subitem {froot}, \hyperpage{150}
+    \subitem {frz}, \hyperpage{163}, \hyperpage{235}
+    \subitem {fs\+Jy}, \hyperpage{181}
+    \subitem {fs\+Jz}, \hyperpage{183}
+    \subitem {fsdx0}, \hyperpage{159}
+    \subitem {fsigmay}, \hyperpage{171}, \hyperpage{242}
+    \subitem {fsigmaz}, \hyperpage{172}, \hyperpage{243}
+    \subitem {fsres}, \hyperpage{212}
+    \subitem {fsrz}, \hyperpage{164}, \hyperpage{236}
+    \subitem {fstau}, \hyperpage{159}, \hyperpage{232}
+    \subitem {fsx0}, \hyperpage{157}, \hyperpage{232}
+    \subitem {fsx0\+\_\+fixed\+Parameters}, \hyperpage{158}, 
+		\hyperpage{231}
+    \subitem {fsy}, \hyperpage{179}
+    \subitem {fsz}, \hyperpage{162}, \hyperpage{234}
+    \subitem {fsz\+\_\+tf}, \hyperpage{180}
+    \subitem {fw}, \hyperpage{207}, \hyperpage{248}
+    \subitem {fx0}, \hyperpage{155}, \hyperpage{230}
+    \subitem {fx0\+\_\+fixed\+Parameters}, \hyperpage{156}, 
+		\hyperpage{231}
+    \subitem {fxdot}, \hyperpage{151}
+    \subitem {fy}, \hyperpage{159}, \hyperpage{233}
+    \subitem {fz}, \hyperpage{161}, \hyperpage{234}
+    \subitem {get\+Fixed\+Parameter\+By\+Id}, \hyperpage{196}
+    \subitem {get\+Fixed\+Parameter\+By\+Name}, \hyperpage{196}
+    \subitem {get\+Fixed\+Parameter\+Ids}, \hyperpage{227}
+    \subitem {get\+Fixed\+Parameter\+Names}, \hyperpage{219}
+    \subitem {get\+Fixed\+Parameters}, \hyperpage{194}
+    \subitem {get\+Initial\+State\+Sensitivities}, \hyperpage{203}
+    \subitem {get\+Initial\+States}, \hyperpage{203}
+    \subitem {get\+Observable\+Ids}, \hyperpage{228}
+    \subitem {get\+Observable\+Names}, \hyperpage{219}
+    \subitem {get\+Parameter\+By\+Id}, \hyperpage{221}
+    \subitem {get\+Parameter\+By\+Name}, \hyperpage{222}
+    \subitem {get\+Parameter\+Ids}, \hyperpage{221}
+    \subitem {get\+Parameter\+List}, \hyperpage{202}
+    \subitem {get\+Parameter\+Names}, \hyperpage{216}
+    \subitem {get\+Parameter\+Scale}, \hyperpage{192}
+    \subitem {get\+Parameters}, \hyperpage{193}
+    \subitem {get\+Reinitialize\+Fixed\+Parameter\+Initial\+States}, 
+		\hyperpage{230}
+    \subitem {get\+Solver}, \hyperpage{150}
+    \subitem {get\+State\+Ids}, \hyperpage{226}
+    \subitem {get\+State\+Names}, \hyperpage{217}
+    \subitem {get\+Steady\+State\+Sensitivity\+Mode}, \hyperpage{229}
+    \subitem {get\+Timepoints}, \hyperpage{199}
+    \subitem {get\+Unscaled\+Parameters}, \hyperpage{194}
+    \subitem {getmy}, \hyperpage{249}
+    \subitem {getmz}, \hyperpage{250}
+    \subitem {getrz}, \hyperpage{254}
+    \subitem {getsrz}, \hyperpage{256}
+    \subitem {getsx}, \hyperpage{253}
+    \subitem {getsz}, \hyperpage{255}
+    \subitem {gett}, \hyperpage{214}
+    \subitem {getx}, \hyperpage{252}
+    \subitem {gety}, \hyperpage{251}
+    \subitem {getz}, \hyperpage{254}
+    \subitem {h}, \hyperpage{267}
+    \subitem {has\+Fixed\+Parameter\+Ids}, \hyperpage{226}
+    \subitem {has\+Fixed\+Parameter\+Names}, \hyperpage{218}
+    \subitem {has\+Observable\+Ids}, \hyperpage{228}
+    \subitem {has\+Observable\+Names}, \hyperpage{219}
+    \subitem {has\+Parameter\+Ids}, \hyperpage{220}
+    \subitem {has\+Parameter\+Names}, \hyperpage{215}
+    \subitem {has\+State\+Ids}, \hyperpage{225}
+    \subitem {has\+State\+Names}, \hyperpage{217}
+    \subitem {idlist}, \hyperpage{261}
+    \subitem {init\+Heaviside}, \hyperpage{186}
+    \subitem {initialize}, \hyperpage{185}
+    \subitem {initialize\+States}, \hyperpage{186}
+    \subitem {is\+Fixed\+Parameter\+State\+Reinitialization\+Allowed}, 
+		\hyperpage{256}
+    \subitem {J}, \hyperpage{263}
+    \subitem {k}, \hyperpage{190}
+    \subitem {lbw}, \hyperpage{260}
+    \subitem {M}, \hyperpage{267}
+    \subitem {Model}, \hyperpage{148, 149}
+    \subitem {my}, \hyperpage{263}
+    \subitem {mz}, \hyperpage{264}
+    \subitem {n\+Max\+Event}, \hyperpage{190}
+    \subitem {ndwdp}, \hyperpage{259}
+    \subitem {ndwdx}, \hyperpage{259}
+    \subitem {ne}, \hyperpage{259}
+    \subitem {nJ}, \hyperpage{260}
+    \subitem {nk}, \hyperpage{189}
+    \subitem {nmaxevent}, \hyperpage{269}
+    \subitem {nnz}, \hyperpage{260}
+    \subitem {np}, \hyperpage{188}
+    \subitem {nplist}, \hyperpage{187}
+    \subitem {nt}, \hyperpage{191}
+    \subitem {nw}, \hyperpage{259}
+    \subitem {nx}, \hyperpage{258}
+    \subitem {nxtrue}, \hyperpage{258}
+    \subitem {ny}, \hyperpage{258}
+    \subitem {nytrue}, \hyperpage{258}
+    \subitem {nz}, \hyperpage{258}
+    \subitem {nztrue}, \hyperpage{259}
+    \subitem {o2mode}, \hyperpage{260}
+    \subitem {operator=}, \hyperpage{150}
+    \subitem {operator==}, \hyperpage{257}
+    \subitem {original\+Parameters}, \hyperpage{268}
+    \subitem {plist}, \hyperpage{206}
+    \subitem {plist\+\_\+}, \hyperpage{268}
+    \subitem {pscale}, \hyperpage{269}
+    \subitem {reinitialize\+Fixed\+Parameter\+Initial\+States}, 
+		\hyperpage{270}
+    \subitem {set\+Fixed\+Parameter\+By\+Id}, \hyperpage{197}
+    \subitem {set\+Fixed\+Parameter\+By\+Name}, \hyperpage{198}
+    \subitem {set\+Fixed\+Parameters}, \hyperpage{195}
+    \subitem {set\+Fixed\+Parameters\+By\+Id\+Regex}, \hyperpage{197}
+    \subitem {set\+Fixed\+Parameters\+By\+Name\+Regex}, \hyperpage{199}
+    \subitem {set\+Initial\+State\+Sensitivities}, \hyperpage{203}
+    \subitem {set\+Initial\+States}, \hyperpage{203}
+    \subitem {set\+N\+Max\+Event}, \hyperpage{191}
+    \subitem {set\+Parameter\+By\+Id}, \hyperpage{223}
+    \subitem {set\+Parameter\+By\+Name}, \hyperpage{224}
+    \subitem {set\+Parameter\+List}, \hyperpage{202}
+    \subitem {set\+Parameter\+Scale}, \hyperpage{192, 193}
+    \subitem {set\+Parameters}, \hyperpage{194}
+    \subitem {set\+Parameters\+By\+Id\+Regex}, \hyperpage{223}
+    \subitem {set\+Parameters\+By\+Name\+Regex}, \hyperpage{225}
+    \subitem {set\+Reinitialize\+Fixed\+Parameter\+Initial\+States}, 
+		\hyperpage{229}
+    \subitem {set\+Steady\+State\+Sensitivity\+Mode}, \hyperpage{229}
+    \subitem {set\+T0}, \hyperpage{205}
+    \subitem {set\+Timepoints}, \hyperpage{200}
+    \subitem {sigmay}, \hyperpage{261}
+    \subitem {sigmaz}, \hyperpage{261}
+    \subitem {stau}, \hyperpage{267}
+    \subitem {steady\+State\+Sensitivity\+Mode}, \hyperpage{269}
+    \subitem {sx0data}, \hyperpage{268}
+    \subitem {t}, \hyperpage{200}
+    \subitem {t0}, \hyperpage{204}
+    \subitem {ts}, \hyperpage{269}
+    \subitem {tstart}, \hyperpage{269}
+    \subitem {ubw}, \hyperpage{260}
+    \subitem {unscale\+Parameters}, \hyperpage{206}
+    \subitem {unscaled\+Parameters}, \hyperpage{267}
+    \subitem {update\+Heaviside}, \hyperpage{213}
+    \subitem {update\+HeavisideB}, \hyperpage{214}
+    \subitem {w}, \hyperpage{266}
+    \subitem {x0data}, \hyperpage{268}
+    \subitem {z2event}, \hyperpage{261}
+  \item {amici\+::\+Model\+\_\+\+D\+AE}
+    \subitem {f\+J\+Diag}, \hyperpage{278}, \hyperpage{293}
+    \subitem {f\+J\+Sparse}, \hyperpage{276, 277}, \hyperpage{291}
+    \subitem {f\+J\+SparseB}, \hyperpage{277}, \hyperpage{292}
+    \subitem {f\+JB}, \hyperpage{275}, \hyperpage{291}
+    \subitem {f\+Jv}, \hyperpage{279, 280}, \hyperpage{293}
+    \subitem {f\+JvB}, \hyperpage{281}, \hyperpage{294}
+    \subitem {fdxdotdp}, \hyperpage{286, 287}, \hyperpage{297}
+    \subitem {fJ}, \hyperpage{273, 274}, \hyperpage{290}
+    \subitem {fM}, \hyperpage{289}, \hyperpage{299}
+    \subitem {fq\+Bdot}, \hyperpage{286}, \hyperpage{296}
+    \subitem {froot}, \hyperpage{282, 283}, \hyperpage{295}
+    \subitem {fsxdot}, \hyperpage{288}, \hyperpage{298}
+    \subitem {fx\+Bdot}, \hyperpage{285}, \hyperpage{296}
+    \subitem {fxdot}, \hyperpage{283, 284}, \hyperpage{295}
+    \subitem {get\+Solver}, \hyperpage{290}
+    \subitem {Model\+\_\+\+D\+AE}, \hyperpage{272}
+  \item {amici\+::\+Model\+\_\+\+O\+DE}
+    \subitem {f\+J\+Diag}, \hyperpage{307, 308}, \hyperpage{322}
+    \subitem {f\+J\+Sparse}, \hyperpage{305, 306}, \hyperpage{321}
+    \subitem {f\+J\+SparseB}, \hyperpage{306}, \hyperpage{322}
+    \subitem {f\+JB}, \hyperpage{304}, \hyperpage{321}
+    \subitem {f\+Jv}, \hyperpage{309, 310}, \hyperpage{323}
+    \subitem {f\+JvB}, \hyperpage{311}, \hyperpage{323}
+    \subitem {fdxdotdp}, \hyperpage{317, 318}, \hyperpage{326}
+    \subitem {fJ}, \hyperpage{302, 303}, \hyperpage{320}
+    \subitem {fq\+Bdot}, \hyperpage{316}, \hyperpage{325}
+    \subitem {froot}, \hyperpage{311, 312}, \hyperpage{324}
+    \subitem {fsxdot}, \hyperpage{319}, \hyperpage{326}
+    \subitem {fx\+Bdot}, \hyperpage{316}, \hyperpage{325}
+    \subitem {fxdot}, \hyperpage{314, 315}, \hyperpage{324}
+    \subitem {get\+Solver}, \hyperpage{320}
+    \subitem {Model\+\_\+\+O\+DE}, \hyperpage{301, 302}
+  \item {amici\+::\+Newton\+Failure}
+    \subitem {error\+\_\+code}, \hyperpage{329}
+    \subitem {Newton\+Failure}, \hyperpage{328}
+  \item {amici\+::\+Newton\+Solver}
+    \subitem {atol}, \hyperpage{334}
+    \subitem {compute\+Newton\+Sensis}, \hyperpage{332}
+    \subitem {dx}, \hyperpage{336}
+    \subitem {get\+Solver}, \hyperpage{330}
+    \subitem {get\+Step}, \hyperpage{331}
+    \subitem {maxlinsteps}, \hyperpage{334}
+    \subitem {maxsteps}, \hyperpage{334}
+    \subitem {model}, \hyperpage{335}
+    \subitem {Newton\+Solver}, \hyperpage{330}
+    \subitem {prepare\+Linear\+System}, \hyperpage{333}
+    \subitem {rdata}, \hyperpage{335}
+    \subitem {rtol}, \hyperpage{335}
+    \subitem {solve\+Linear\+System}, \hyperpage{333}
+    \subitem {t}, \hyperpage{335}
+    \subitem {x}, \hyperpage{336}
+    \subitem {xdot}, \hyperpage{335}
+  \item {amici\+::\+Newton\+Solver\+Dense}
+    \subitem {Newton\+Solver\+Dense}, \hyperpage{337}
+    \subitem {prepare\+Linear\+System}, \hyperpage{338}
+    \subitem {solve\+Linear\+System}, \hyperpage{337}
+  \item {amici\+::\+Newton\+Solver\+Iterative}
+    \subitem {linsolve\+S\+P\+B\+CG}, \hyperpage{341}
+    \subitem {Newton\+Solver\+Iterative}, \hyperpage{339}
+    \subitem {prepare\+Linear\+System}, \hyperpage{341}
+    \subitem {solve\+Linear\+System}, \hyperpage{340}
+  \item {amici\+::\+Newton\+Solver\+Sparse}
+    \subitem {Newton\+Solver\+Sparse}, \hyperpage{343}
+    \subitem {prepare\+Linear\+System}, \hyperpage{344}
+    \subitem {solve\+Linear\+System}, \hyperpage{344}
+  \item {amici\+::\+Return\+Data}
+    \subitem {apply\+Chain\+Rule\+Factor\+To\+Simulation\+Results}, 
+		\hyperpage{349}
+    \subitem {boost\+::serialization\+::serialize}, \hyperpage{349}
+    \subitem {chi2}, \hyperpage{357}
+    \subitem {F\+IM}, \hyperpage{353}
+    \subitem {invalidate}, \hyperpage{347}
+    \subitem {invalidate\+L\+LH}, \hyperpage{348}
+    \subitem {J}, \hyperpage{350}
+    \subitem {llh}, \hyperpage{356}
+    \subitem {ne}, \hyperpage{359}
+    \subitem {newton\+\_\+maxsteps}, \hyperpage{360}
+    \subitem {newton\+\_\+numlinsteps}, \hyperpage{356}
+    \subitem {newton\+\_\+numsteps}, \hyperpage{356}
+    \subitem {newton\+\_\+status}, \hyperpage{355}
+    \subitem {newton\+\_\+time}, \hyperpage{355}
+    \subitem {nJ}, \hyperpage{359}
+    \subitem {nk}, \hyperpage{358}
+    \subitem {nmaxevent}, \hyperpage{360}
+    \subitem {np}, \hyperpage{357}
+    \subitem {nplist}, \hyperpage{359}
+    \subitem {nt}, \hyperpage{360}
+    \subitem {numerrtestfails}, \hyperpage{354}
+    \subitem {numerrtestfailsB}, \hyperpage{354}
+    \subitem {numnonlinsolvconvfails}, \hyperpage{355}
+    \subitem {numnonlinsolvconvfailsB}, \hyperpage{355}
+    \subitem {numrhsevals}, \hyperpage{354}
+    \subitem {numrhsevalsB}, \hyperpage{354}
+    \subitem {numsteps}, \hyperpage{353}
+    \subitem {numstepsB}, \hyperpage{354}
+    \subitem {nx}, \hyperpage{358}
+    \subitem {nxtrue}, \hyperpage{358}
+    \subitem {ny}, \hyperpage{358}
+    \subitem {nytrue}, \hyperpage{358}
+    \subitem {nz}, \hyperpage{359}
+    \subitem {nztrue}, \hyperpage{359}
+    \subitem {o2mode}, \hyperpage{360}
+    \subitem {order}, \hyperpage{355}
+    \subitem {pscale}, \hyperpage{360}
+    \subitem {res}, \hyperpage{353}
+    \subitem {Return\+Data}, \hyperpage{347}
+    \subitem {rz}, \hyperpage{351}
+    \subitem {s2llh}, \hyperpage{357}
+    \subitem {s2rz}, \hyperpage{351}
+    \subitem {sensi}, \hyperpage{361}
+    \subitem {sensi\+\_\+meth}, \hyperpage{361}
+    \subitem {sigmay}, \hyperpage{352}
+    \subitem {sigmaz}, \hyperpage{350}
+    \subitem {sllh}, \hyperpage{357}
+    \subitem {sres}, \hyperpage{353}
+    \subitem {srz}, \hyperpage{351}
+    \subitem {ssigmay}, \hyperpage{353}
+    \subitem {ssigmaz}, \hyperpage{351}
+    \subitem {status}, \hyperpage{357}
+    \subitem {sx}, \hyperpage{352}
+    \subitem {sx0}, \hyperpage{356}
+    \subitem {sy}, \hyperpage{352}
+    \subitem {sz}, \hyperpage{351}
+    \subitem {ts}, \hyperpage{350}
+    \subitem {x}, \hyperpage{352}
+    \subitem {x0}, \hyperpage{356}
+    \subitem {xdot}, \hyperpage{350}
+    \subitem {y}, \hyperpage{352}
+    \subitem {z}, \hyperpage{350}
+  \item {amici\+::\+Setup\+Failure}
+    \subitem {Setup\+Failure}, \hyperpage{395}
+  \item {amici\+::\+Solver}
+    \subitem {adj\+Init}, \hyperpage{438}
+    \subitem {allocate\+Solver}, \hyperpage{432}
+    \subitem {allocate\+SolverB}, \hyperpage{438}
+    \subitem {apply\+Quad\+Tolerances\+A\+SA}, \hyperpage{454}
+    \subitem {apply\+Sensitivity\+Tolerances}, \hyperpage{454}
+    \subitem {apply\+Tolerances}, \hyperpage{452}
+    \subitem {apply\+Tolerances\+A\+SA}, \hyperpage{453}
+    \subitem {apply\+Tolerances\+F\+SA}, \hyperpage{452}
+    \subitem {band}, \hyperpage{441}
+    \subitem {bandB}, \hyperpage{441}
+    \subitem {binit}, \hyperpage{427}
+    \subitem {boost\+::serialization\+::serialize}, \hyperpage{455}
+    \subitem {calc\+I\+CB}, \hyperpage{405}
+    \subitem {calc\+IC}, \hyperpage{405}
+    \subitem {clone}, \hyperpage{400}
+    \subitem {dense}, \hyperpage{440}
+    \subitem {denseB}, \hyperpage{440}
+    \subitem {diag}, \hyperpage{442}
+    \subitem {diagB}, \hyperpage{442}
+    \subitem {get\+Absolute\+Tolerance}, \hyperpage{416}
+    \subitem {get\+Absolute\+Tolerance\+Quadratures}, \hyperpage{418}
+    \subitem {get\+Adj\+Bmem}, \hyperpage{451}
+    \subitem {get\+Adj\+Malloc\+Done}, \hyperpage{451}
+    \subitem {get\+Diagnosis}, \hyperpage{403}
+    \subitem {get\+DiagnosisB}, \hyperpage{403}
+    \subitem {get\+Dky}, \hyperpage{438}
+    \subitem {get\+Internal\+Sensitivity\+Method}, \hyperpage{426}
+    \subitem {get\+Interpolation\+Type}, \hyperpage{423}
+    \subitem {get\+Last\+Order}, \hyperpage{447}
+    \subitem {get\+Linear\+Multistep\+Method}, \hyperpage{421}
+    \subitem {get\+Linear\+Solver}, \hyperpage{425}
+    \subitem {get\+Malloc\+Done}, \hyperpage{451}
+    \subitem {get\+Max\+Steps}, \hyperpage{419}
+    \subitem {get\+Max\+Steps\+Backward\+Problem}, \hyperpage{420}
+    \subitem {get\+Model}, \hyperpage{450}
+    \subitem {get\+Newton\+Max\+Linear\+Steps}, \hyperpage{412}
+    \subitem {get\+Newton\+Max\+Steps}, \hyperpage{410}
+    \subitem {get\+Newton\+Preequilibration}, \hyperpage{411}
+    \subitem {get\+Nonlinear\+Solver\+Iteration}, \hyperpage{422}
+    \subitem {get\+Num\+Err\+Test\+Fails}, \hyperpage{446}
+    \subitem {get\+Num\+Nonlin\+Solv\+Conv\+Fails}, \hyperpage{447}
+    \subitem {get\+Num\+Rhs\+Evals}, \hyperpage{446}
+    \subitem {get\+Num\+Steps}, \hyperpage{445}
+    \subitem {get\+QuadB}, \hyperpage{408}
+    \subitem {get\+Relative\+Tolerance}, \hyperpage{414}
+    \subitem {get\+Relative\+Tolerance\+Quadratures}, \hyperpage{417}
+    \subitem {get\+Root\+Info}, \hyperpage{404}
+    \subitem {get\+Sens}, \hyperpage{402}
+    \subitem {get\+Sensitivity\+Method}, \hyperpage{409}
+    \subitem {get\+Sensitivity\+Order}, \hyperpage{413}
+    \subitem {get\+Stability\+Limit\+Flag}, \hyperpage{424}
+    \subitem {get\+State\+Ordering}, \hyperpage{423}
+    \subitem {getB}, \hyperpage{408}
+    \subitem {init}, \hyperpage{427}
+    \subitem {initialize\+Linear\+Solver}, \hyperpage{448}
+    \subitem {initialize\+Linear\+SolverB}, \hyperpage{449}
+    \subitem {interp\+Type}, \hyperpage{457}
+    \subitem {ism}, \hyperpage{456}
+    \subitem {iter}, \hyperpage{457}
+    \subitem {klu}, \hyperpage{444}
+    \subitem {klu\+Set\+Ordering}, \hyperpage{444}
+    \subitem {klu\+Set\+OrderingB}, \hyperpage{445}
+    \subitem {kluB}, \hyperpage{445}
+    \subitem {lmm}, \hyperpage{456}
+    \subitem {maxsteps}, \hyperpage{457}
+    \subitem {nplist}, \hyperpage{450}
+    \subitem {nx}, \hyperpage{450}
+    \subitem {operator==}, \hyperpage{455}
+    \subitem {qbinit}, \hyperpage{428}
+    \subitem {quad\+Re\+InitB}, \hyperpage{409}
+    \subitem {quad\+S\+StolerancesB}, \hyperpage{439}
+    \subitem {re\+Init}, \hyperpage{404}
+    \subitem {re\+InitB}, \hyperpage{408}
+    \subitem {root\+Init}, \hyperpage{428}
+    \subitem {sens\+Init1}, \hyperpage{429}
+    \subitem {sens\+Re\+Init}, \hyperpage{405}
+    \subitem {set\+Absolute\+Tolerance}, \hyperpage{416}
+    \subitem {set\+Absolute\+Tolerance\+Quadratures}, \hyperpage{418}
+    \subitem {set\+Band\+Jac\+Fn}, \hyperpage{430}
+    \subitem {set\+Band\+Jac\+FnB}, \hyperpage{431}
+    \subitem {set\+Dense\+Jac\+Fn}, \hyperpage{429}
+    \subitem {set\+Dense\+Jac\+FnB}, \hyperpage{430}
+    \subitem {set\+Err\+Handler\+Fn}, \hyperpage{434}
+    \subitem {set\+Id}, \hyperpage{437}
+    \subitem {set\+Internal\+Sensitivity\+Method}, \hyperpage{426}
+    \subitem {set\+Interpolation\+Type}, \hyperpage{423}
+    \subitem {set\+Jac\+Times\+Vec\+Fn}, \hyperpage{430}
+    \subitem {set\+Jac\+Times\+Vec\+FnB}, \hyperpage{431}
+    \subitem {set\+Linear\+Multistep\+Method}, \hyperpage{421}
+    \subitem {set\+Linear\+Solver}, \hyperpage{426}
+    \subitem {set\+Max\+Num\+Steps}, \hyperpage{435}
+    \subitem {set\+Max\+Num\+StepsB}, \hyperpage{436}
+    \subitem {set\+Max\+Steps}, \hyperpage{419}
+    \subitem {set\+Max\+Steps\+Backward\+Problem}, \hyperpage{420}
+    \subitem {set\+Newton\+Max\+Linear\+Steps}, \hyperpage{412}
+    \subitem {set\+Newton\+Max\+Steps}, \hyperpage{410}
+    \subitem {set\+Newton\+Preequilibration}, \hyperpage{411}
+    \subitem {set\+Nonlinear\+Solver\+Iteration}, \hyperpage{422}
+    \subitem {set\+Quad\+Err\+ConB}, \hyperpage{434}
+    \subitem {set\+Relative\+Tolerance}, \hyperpage{414}
+    \subitem {set\+Relative\+Tolerance\+Quadratures}, \hyperpage{417}
+    \subitem {set\+S\+Stolerances}, \hyperpage{432}
+    \subitem {set\+S\+StolerancesB}, \hyperpage{439}
+    \subitem {set\+Sens\+Err\+Con}, \hyperpage{433}
+    \subitem {set\+Sens\+Params}, \hyperpage{438}
+    \subitem {set\+Sens\+S\+Stolerances}, \hyperpage{433}
+    \subitem {set\+Sensitivity\+Method}, \hyperpage{409}
+    \subitem {set\+Sensitivity\+Order}, \hyperpage{413}
+    \subitem {set\+Sparse\+Jac\+Fn}, \hyperpage{430}
+    \subitem {set\+Sparse\+Jac\+FnB}, \hyperpage{431}
+    \subitem {set\+Stab\+Lim\+Det}, \hyperpage{436}
+    \subitem {set\+Stab\+Lim\+DetB}, \hyperpage{437}
+    \subitem {set\+Stability\+Limit\+Flag}, \hyperpage{424}
+    \subitem {set\+State\+Ordering}, \hyperpage{424}
+    \subitem {set\+Stop\+Time}, \hyperpage{407}
+    \subitem {set\+Suppress\+Alg}, \hyperpage{438}
+    \subitem {set\+User\+Data}, \hyperpage{434}
+    \subitem {set\+User\+DataB}, \hyperpage{435}
+    \subitem {setup}, \hyperpage{400}
+    \subitem {setup\+A\+M\+IB}, \hyperpage{401}
+    \subitem {solve}, \hyperpage{406}
+    \subitem {solveB}, \hyperpage{407}
+    \subitem {solveF}, \hyperpage{406}
+    \subitem {Solver}, \hyperpage{400}
+    \subitem {solver\+Memory}, \hyperpage{456}
+    \subitem {solver\+MemoryB}, \hyperpage{456}
+    \subitem {solver\+Was\+Called}, \hyperpage{456}
+    \subitem {spbcg}, \hyperpage{443}
+    \subitem {spbcgB}, \hyperpage{443}
+    \subitem {spgmr}, \hyperpage{442}
+    \subitem {spgmrB}, \hyperpage{442}
+    \subitem {sptfqmr}, \hyperpage{443}
+    \subitem {sptfqmrB}, \hyperpage{444}
+    \subitem {turn\+Off\+Root\+Finding}, \hyperpage{409}
+    \subitem {wrap\+Err\+Handler\+Fn}, \hyperpage{432}
+  \item {amici\+::\+Steadystate\+Problem}
+    \subitem {apply\+Newtons\+Method}, \hyperpage{459}
+    \subitem {create\+Steadystate\+Sim\+Solver}, \hyperpage{461}
+    \subitem {get\+Newton\+Output}, \hyperpage{460}
+    \subitem {get\+Steadystate\+Simulation}, \hyperpage{460}
+    \subitem {Steadystate\+Problem}, \hyperpage{458}
+    \subitem {work\+Steady\+State\+Problem}, \hyperpage{458}
+  \item {amici\+::plotting}
+    \subitem {plot\+Observable\+Trajectories}, \hyperpage{71}
+    \subitem {plot\+State\+Trajectories}, \hyperpage{71}
+  \item {amici\+::sbml\+\_\+import}
+    \subitem {apply\+Template}, \hyperpage{73}
+    \subitem {assignment\+Rules2observables}, \hyperpage{75}
+    \subitem {constant\+Species\+To\+Parameters}, \hyperpage{75}
+    \subitem {get\+Rule\+Vars}, \hyperpage{75}
+    \subitem {get\+Symbolic\+Diagonal}, \hyperpage{74}
+    \subitem {get\+Symbols}, \hyperpage{73}
+    \subitem {replace\+Log\+AB}, \hyperpage{76}
+  \item {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{365}
+    \subitem {check\+Lib\+S\+B\+M\+L\+Errors}, \hyperpage{366}
+    \subitem {check\+Support}, \hyperpage{371}
+    \subitem {clean\+Reserved\+Symbols}, \hyperpage{377}
+    \subitem {compile\+C\+Code}, \hyperpage{384}
+    \subitem {compute\+Model\+Equations}, \hyperpage{379}
+    \subitem {compute\+Model\+Equations\+Adjoint\+Sensitivites}, 
+		\hyperpage{382}
+    \subitem {compute\+Model\+Equations\+Forward\+Sensitivites}, 
+		\hyperpage{381}
+    \subitem {compute\+Model\+Equations\+Linear\+Solver}, 
+		\hyperpage{380}
+    \subitem {compute\+Model\+Equations\+Objective\+Function}, 
+		\hyperpage{380}
+    \subitem {compute\+Model\+Equations\+Sensitivites\+Core}, 
+		\hyperpage{381}
+    \subitem {generate\+C\+Code}, \hyperpage{383}
+    \subitem {get\+Function\+Body}, \hyperpage{386}
+    \subitem {get\+Sparse\+Sym\+Lines}, \hyperpage{392}
+    \subitem {get\+Sparse\+Symbols}, \hyperpage{378}
+    \subitem {get\+Sym\+Lines}, \hyperpage{392}
+    \subitem {get\+Symbol\+I\+D\+Initializer\+List}, \hyperpage{389}
+    \subitem {get\+Symbol\+Name\+Initializer\+List}, \hyperpage{389}
+    \subitem {load\+S\+B\+M\+L\+File}, \hyperpage{365}
+    \subitem {prepare\+Model\+Folder}, \hyperpage{383}
+    \subitem {print\+With\+Exception}, \hyperpage{393}
+    \subitem {process\+Compartments}, \hyperpage{373}
+    \subitem {process\+Parameters}, \hyperpage{371}
+    \subitem {process\+Reactions}, \hyperpage{373}
+    \subitem {process\+Rules}, \hyperpage{374}
+    \subitem {process\+S\+B\+ML}, \hyperpage{370}
+    \subitem {process\+Species}, \hyperpage{371}
+    \subitem {process\+Time}, \hyperpage{375}
+    \subitem {process\+Volume\+Conversion}, \hyperpage{374}
+    \subitem {replace\+In\+All\+Expressions}, \hyperpage{375}
+    \subitem {replace\+Special\+Constants}, \hyperpage{377}
+    \subitem {sbml2amici}, \hyperpage{366}
+    \subitem {set\+Name}, \hyperpage{368}
+    \subitem {set\+Paths}, \hyperpage{369}
+    \subitem {write\+C\+Make\+File}, \hyperpage{390}
+    \subitem {write\+Function\+File}, \hyperpage{385}
+    \subitem {write\+Index\+Files}, \hyperpage{385}
+    \subitem {write\+Model\+Header}, \hyperpage{388}
+    \subitem {write\+Module\+Setup}, \hyperpage{391}
+    \subitem {write\+Swig\+Files}, \hyperpage{390}
+    \subitem {write\+Wrapfunctions\+C\+PP}, \hyperpage{387}
+    \subitem {write\+Wrapfunctions\+Header}, \hyperpage{387}
+  \item {amici\+\_\+blas\+C\+Blas\+Trans\+To\+Blas\+Trans}
+    \subitem {amici}, \hyperpage{66}
+  \item {amici\+\_\+daxpy}
+    \subitem {amici}, \hyperpage{27}
+  \item {amici\+\_\+dgemm}
+    \subitem {amici}, \hyperpage{25}
+  \item {amici\+\_\+dgemv}
+    \subitem {amici}, \hyperpage{24}
+  \item {amici\+\_\+path}
+    \subitem {amici}, \hyperpage{70}
+  \item {amidata}, \hyperpage{463}
+    \subitem {amidata}, \hyperpage{464}
+    \subitem {condition}, \hyperpage{467}
+    \subitem {condition\+Preequilibration}, \hyperpage{467}
+    \subitem {ne}, \hyperpage{465}
+    \subitem {nk}, \hyperpage{465}
+    \subitem {nt}, \hyperpage{464}
+    \subitem {ny}, \hyperpage{465}
+    \subitem {nz}, \hyperpage{465}
+    \subitem {Sigma\+\_\+Y}, \hyperpage{466}
+    \subitem {Sigma\+\_\+Z}, \hyperpage{467}
+    \subitem {t}, \hyperpage{466}
+    \subitem {Y}, \hyperpage{466}
+    \subitem {Z}, \hyperpage{466}
+  \item {amievent}, \hyperpage{468}
+    \subitem {amievent}, \hyperpage{468}
+    \subitem {bolus}, \hyperpage{469}
+    \subitem {hflag}, \hyperpage{470}
+    \subitem {set\+Hflag}, \hyperpage{469}
+    \subitem {trigger}, \hyperpage{469}
+    \subitem {z}, \hyperpage{470}
+  \item {amifun}, \hyperpage{470}
+    \subitem {amifun}, \hyperpage{472}
+    \subitem {argstr}, \hyperpage{477}
+    \subitem {cvar}, \hyperpage{477}
+    \subitem {deps}, \hyperpage{477}
+    \subitem {funstr}, \hyperpage{477}
+    \subitem {gccode}, \hyperpage{473}
+    \subitem {get\+Args}, \hyperpage{474}
+    \subitem {get\+C\+Var}, \hyperpage{475}
+    \subitem {get\+Deps}, \hyperpage{474}
+    \subitem {get\+N\+Vecs}, \hyperpage{475}
+    \subitem {get\+Sensi\+Flag}, \hyperpage{475}
+    \subitem {get\+Syms}, \hyperpage{475}
+    \subitem {nvecs}, \hyperpage{478}
+    \subitem {sensiflag}, \hyperpage{478}
+    \subitem {strsym}, \hyperpage{476}
+    \subitem {strsym\+\_\+old}, \hyperpage{477}
+    \subitem {sym}, \hyperpage{476}
+    \subitem {sym\+\_\+noopt}, \hyperpage{476}
+    \subitem {write\+Ccode}, \hyperpage{472}
+    \subitem {write\+Ccode\+\_\+sensi}, \hyperpage{472}
+    \subitem {write\+Mcode}, \hyperpage{473}
+  \item {amimodel}, \hyperpage{478}
+    \subitem {adjoint}, \hyperpage{493}
+    \subitem {amimodel}, \hyperpage{482}
+    \subitem {augmento2}, \hyperpage{489}
+    \subitem {augmento2vec}, \hyperpage{489}
+    \subitem {cfun}, \hyperpage{500}
+    \subitem {check\+Deps}, \hyperpage{487}
+    \subitem {colptrs}, \hyperpage{498}
+    \subitem {colptrsB}, \hyperpage{499}
+    \subitem {compile\+And\+Link\+Model}, \hyperpage{490}
+    \subitem {compileC}, \hyperpage{484}
+    \subitem {coptim}, \hyperpage{499}
+    \subitem {debug}, \hyperpage{493}
+    \subitem {event}, \hyperpage{492}
+    \subitem {forward}, \hyperpage{493}
+    \subitem {fun}, \hyperpage{492}
+    \subitem {funs}, \hyperpage{499}
+    \subitem {generate\+Matlab\+Wrapper}, \hyperpage{491}
+    \subitem {generateC}, \hyperpage{484}
+    \subitem {generateM}, \hyperpage{485}
+    \subitem {get\+Fun}, \hyperpage{485}
+    \subitem {H\+Table}, \hyperpage{492}
+    \subitem {id}, \hyperpage{496}
+    \subitem {lbw}, \hyperpage{497}
+    \subitem {load\+Old\+Hashes}, \hyperpage{488}
+    \subitem {make\+Events}, \hyperpage{486}
+    \subitem {make\+Syms}, \hyperpage{487}
+    \subitem {maxflag}, \hyperpage{502}
+    \subitem {mfuns}, \hyperpage{499}
+    \subitem {minflag}, \hyperpage{501}
+    \subitem {modelname}, \hyperpage{492}
+    \subitem {ndwdp}, \hyperpage{502}
+    \subitem {ndwdx}, \hyperpage{502}
+    \subitem {nevent}, \hyperpage{496}
+    \subitem {ng}, \hyperpage{495}
+    \subitem {nk}, \hyperpage{495}
+    \subitem {nnz}, \hyperpage{497}
+    \subitem {np}, \hyperpage{495}
+    \subitem {nw}, \hyperpage{502}
+    \subitem {nx}, \hyperpage{494}
+    \subitem {nxtrue}, \hyperpage{494}
+    \subitem {ny}, \hyperpage{494}
+    \subitem {nytrue}, \hyperpage{495}
+    \subitem {nz}, \hyperpage{496}
+    \subitem {nztrue}, \hyperpage{496}
+    \subitem {o2flag}, \hyperpage{501}
+    \subitem {param}, \hyperpage{500}
+    \subitem {parse\+Model}, \hyperpage{483}
+    \subitem {recompile}, \hyperpage{500}
+    \subitem {rowvals}, \hyperpage{498}
+    \subitem {rowvalsB}, \hyperpage{498}
+    \subitem {sparseidx}, \hyperpage{497}
+    \subitem {sparseidxB}, \hyperpage{498}
+    \subitem {splineflag}, \hyperpage{501}
+    \subitem {sym}, \hyperpage{491}
+    \subitem {t0}, \hyperpage{493}
+    \subitem {ubw}, \hyperpage{497}
+    \subitem {update\+Model\+Name}, \hyperpage{483}
+    \subitem {update\+R\+HS}, \hyperpage{482}
+    \subitem {update\+Wrap\+Path}, \hyperpage{483}
+    \subitem {wrap\+\_\+path}, \hyperpage{500}
+    \subitem {wtype}, \hyperpage{494}
+    \subitem {z2event}, \hyperpage{501}
+  \item {amioption}, \hyperpage{503}
+    \subitem {amioption}, \hyperpage{504}
+    \subitem {atol}, \hyperpage{505}
+    \subitem {interp\+Type}, \hyperpage{507}
+    \subitem {ism}, \hyperpage{507}
+    \subitem {iter}, \hyperpage{506}
+    \subitem {linsol}, \hyperpage{507}
+    \subitem {lmm}, \hyperpage{506}
+    \subitem {maxsteps}, \hyperpage{505}
+    \subitem {maxstepsB}, \hyperpage{506}
+    \subitem {newton\+\_\+maxlinsteps}, \hyperpage{509}
+    \subitem {newton\+\_\+maxsteps}, \hyperpage{509}
+    \subitem {newton\+\_\+preeq}, \hyperpage{510}
+    \subitem {nmaxevent}, \hyperpage{508}
+    \subitem {ordering}, \hyperpage{508}
+    \subitem {pscale}, \hyperpage{510}
+    \subitem {quad\+\_\+atol}, \hyperpage{505}
+    \subitem {quad\+\_\+rtol}, \hyperpage{505}
+    \subitem {rtol}, \hyperpage{505}
+    \subitem {sens\+\_\+ind}, \hyperpage{506}
+    \subitem {sensi}, \hyperpage{508}
+    \subitem {sensi\+\_\+meth}, \hyperpage{507}
+    \subitem {ss}, \hyperpage{508}
+    \subitem {stldet}, \hyperpage{507}
+    \subitem {sx0}, \hyperpage{509}
+    \subitem {tstart}, \hyperpage{506}
+    \subitem {x0}, \hyperpage{509}
+    \subitem {z2event}, \hyperpage{510}
+  \item {amised}, \hyperpage{511}
+    \subitem {amised}, \hyperpage{511}
+    \subitem {datasym}, \hyperpage{513}
+    \subitem {model}, \hyperpage{512}
+    \subitem {modelname}, \hyperpage{512}
+    \subitem {outputcount}, \hyperpage{513}
+    \subitem {sedml}, \hyperpage{512}
+    \subitem {varidx}, \hyperpage{513}
+    \subitem {varsym}, \hyperpage{513}
+  \item {amiwrap}
+    \subitem {amiwrap.\+m}, \hyperpage{529}
+  \item {amiwrap.\+m}, \hyperpage{529}
+    \subitem {amiwrap}, \hyperpage{529}
+  \item {apply\+Chain\+Rule\+Factor\+To\+Simulation\+Results}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{349}
+  \item {apply\+Newtons\+Method}
+    \subitem {amici\+::\+Steadystate\+Problem}, \hyperpage{459}
+  \item {apply\+Quad\+Tolerances\+A\+SA}
+    \subitem {amici\+::\+Solver}, \hyperpage{454}
+  \item {apply\+Sensitivity\+Tolerances}
+    \subitem {amici\+::\+Solver}, \hyperpage{454}
+  \item {apply\+Template}
+    \subitem {amici\+::sbml\+\_\+import}, \hyperpage{73}
+  \item {apply\+Tolerances}
+    \subitem {amici\+::\+Solver}, \hyperpage{452}
+  \item {apply\+Tolerances\+A\+SA}
+    \subitem {amici\+::\+Solver}, \hyperpage{453}
+  \item {apply\+Tolerances\+F\+SA}
+    \subitem {amici\+::\+Solver}, \hyperpage{452}
+  \item {argstr}
+    \subitem {amifun}, \hyperpage{477}
+  \item {assignment\+Rules2observables}
+    \subitem {amici\+::sbml\+\_\+import}, \hyperpage{75}
+  \item {at}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{88}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{91}
+  \item {atol}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{334}
+    \subitem {amioption}, \hyperpage{505}
+  \item {augmento2}
+    \subitem {amimodel}, \hyperpage{489}
+  \item {augmento2vec}
+    \subitem {amimodel}, \hyperpage{489}
+
+  \indexspace
+
+  \item {B\+L\+A\+S\+Layout}
+    \subitem {amici}, \hyperpage{19}
+  \item {B\+L\+A\+S\+Transpose}
+    \subitem {amici}, \hyperpage{19}
+  \item {Backward\+Problem}, \hyperpage{94}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{95}
+  \item {band}
+    \subitem {amici\+::\+Solver}, \hyperpage{441}
+  \item {bandB}
+    \subitem {amici\+::\+Solver}, \hyperpage{441}
+  \item {binit}
+    \subitem {amici\+::\+Solver}, \hyperpage{427}
+  \item {bolus}
+    \subitem {amievent}, \hyperpage{469}
+  \item {boost\+::serialization\+::serialize}
+    \subitem {amici\+::\+Model}, \hyperpage{257}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{349}
+    \subitem {amici\+::\+Solver}, \hyperpage{455}
+
+  \indexspace
+
+  \item {calc\+I\+CB}
+    \subitem {amici\+::\+Solver}, \hyperpage{405}
+  \item {calc\+IC}
+    \subitem {amici\+::\+Solver}, \hyperpage{405}
+  \item {cblas.\+cpp}, \hyperpage{530}
+  \item {cfun}
+    \subitem {amimodel}, \hyperpage{500}
+  \item {check\+Data\+Dimension}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{124}
+  \item {check\+Deps}
+    \subitem {amimodel}, \hyperpage{487}
+  \item {check\+Events\+Dimension}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{124}
+  \item {check\+Field\+Names}
+    \subitem {amici}, \hyperpage{42}
+  \item {check\+Finite}
+    \subitem {amici}, \hyperpage{32}
+    \subitem {amici\+::\+Model}, \hyperpage{214}
+  \item {check\+Lib\+S\+B\+M\+L\+Errors}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{366}
+  \item {check\+Sigma\+Positivity}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{125, 126}
+  \item {check\+Support}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{371}
+  \item {chi2}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{357}
+  \item {clean\+Reserved\+Symbols}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{377}
+  \item {clone}
+    \subitem {amici\+::\+Model}, \hyperpage{150}
+    \subitem {amici\+::\+Solver}, \hyperpage{400}
+  \item {colptrs}
+    \subitem {amimodel}, \hyperpage{498}
+  \item {colptrsB}
+    \subitem {amimodel}, \hyperpage{499}
+  \item {compile\+And\+Link\+Model}
+    \subitem {amimodel}, \hyperpage{490}
+  \item {compile\+C\+Code}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{384}
+  \item {compileC}
+    \subitem {amimodel}, \hyperpage{484}
+  \item {compute\+Model\+Equations}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{379}
+  \item {compute\+Model\+Equations\+Adjoint\+Sensitivites}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{382}
+  \item {compute\+Model\+Equations\+Forward\+Sensitivites}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{381}
+  \item {compute\+Model\+Equations\+Linear\+Solver}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{380}
+  \item {compute\+Model\+Equations\+Objective\+Function}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{380}
+  \item {compute\+Model\+Equations\+Sensitivites\+Core}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{381}
+  \item {compute\+Newton\+Sensis}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{332}
+  \item {condition}
+    \subitem {amidata}, \hyperpage{467}
+  \item {condition\+Preequilibration}
+    \subitem {amidata}, \hyperpage{467}
+  \item {constant\+Species\+To\+Parameters}
+    \subitem {amici\+::sbml\+\_\+import}, \hyperpage{75}
+  \item {coptim}
+    \subitem {amimodel}, \hyperpage{499}
+  \item {create\+Steadystate\+Sim\+Solver}
+    \subitem {amici\+::\+Steadystate\+Problem}, \hyperpage{461}
+  \item {cvar}
+    \subitem {amifun}, \hyperpage{477}
+  \item {Cvode\+Exception}, \hyperpage{100}
+    \subitem {amici\+::\+Cvode\+Exception}, \hyperpage{101}
+
+  \indexspace
+
+  \item {D\+Dspline}
+    \subitem {amici}, \hyperpage{61}
+  \item {D\+Dspline\+\_\+pos}
+    \subitem {amici}, \hyperpage{61}
+  \item {d\+Jrzdsigma}
+    \subitem {amici\+::\+Model}, \hyperpage{265}
+  \item {d\+Jrzdz}
+    \subitem {amici\+::\+Model}, \hyperpage{265}
+  \item {d\+Jydp}
+    \subitem {amici\+::\+Model}, \hyperpage{262}
+  \item {d\+Jydsigma}
+    \subitem {amici\+::\+Model}, \hyperpage{264}
+  \item {d\+Jydy}
+    \subitem {amici\+::\+Model}, \hyperpage{264}
+  \item {d\+Jzdp}
+    \subitem {amici\+::\+Model}, \hyperpage{262}
+  \item {d\+Jzdsigma}
+    \subitem {amici\+::\+Model}, \hyperpage{264}
+  \item {d\+Jzdz}
+    \subitem {amici\+::\+Model}, \hyperpage{264}
+  \item {data}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{82, 83}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{90, 91}
+  \item {datasym}
+    \subitem {amised}, \hyperpage{513}
+  \item {dbl2int}
+    \subitem {amici}, \hyperpage{65}
+  \item {debug}
+    \subitem {amimodel}, \hyperpage{493}
+  \item {deltaqB}
+    \subitem {amici\+::\+Model}, \hyperpage{263}
+  \item {deltasx}
+    \subitem {amici\+::\+Model}, \hyperpage{262}
+  \item {deltax}
+    \subitem {amici\+::\+Model}, \hyperpage{262}
+  \item {deltaxB}
+    \subitem {amici\+::\+Model}, \hyperpage{263}
+  \item {dense}
+    \subitem {amici\+::\+Solver}, \hyperpage{440}
+  \item {denseB}
+    \subitem {amici\+::\+Solver}, \hyperpage{440}
+  \item {deps}
+    \subitem {amifun}, \hyperpage{477}
+  \item {deserialize\+From\+Char}
+    \subitem {amici}, \hyperpage{44}
+  \item {deserialize\+From\+String}
+    \subitem {amici}, \hyperpage{45}
+  \item {diag}
+    \subitem {amici\+::\+Solver}, \hyperpage{442}
+  \item {diagB}
+    \subitem {amici\+::\+Solver}, \hyperpage{442}
+  \item {dirac}
+    \subitem {amici}, \hyperpage{50}
+  \item {Dmax}
+    \subitem {amici}, \hyperpage{53}
+  \item {Dmin}
+    \subitem {amici}, \hyperpage{52}
+  \item {drzdp}
+    \subitem {amici\+::\+Model}, \hyperpage{266}
+  \item {drzdx}
+    \subitem {amici\+::\+Model}, \hyperpage{265}
+  \item {dsigmaydp}
+    \subitem {amici\+::\+Model}, \hyperpage{261}
+  \item {dsigmazdp}
+    \subitem {amici\+::\+Model}, \hyperpage{262}
+  \item {Dspline}
+    \subitem {amici}, \hyperpage{59}
+  \item {Dspline\+\_\+pos}
+    \subitem {amici}, \hyperpage{60}
+  \item {dwdp}
+    \subitem {amici\+::\+Model}, \hyperpage{267}
+  \item {dwdx}
+    \subitem {amici\+::\+Model}, \hyperpage{266}
+  \item {dx}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{336}
+  \item {dxdotdp}
+    \subitem {amici\+::\+Model}, \hyperpage{263}
+  \item {dydp}
+    \subitem {amici\+::\+Model}, \hyperpage{266}
+  \item {dydx}
+    \subitem {amici\+::\+Model}, \hyperpage{266}
+  \item {dzdp}
+    \subitem {amici\+::\+Model}, \hyperpage{265}
+  \item {dzdx}
+    \subitem {amici\+::\+Model}, \hyperpage{265}
+
+  \indexspace
+
+  \item {edata}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{136}
+  \item {err\+Msg\+Id\+And\+Txt}
+    \subitem {amici}, \hyperpage{70}
+  \item {error\+\_\+code}
+    \subitem {amici\+::\+Integration\+Failure}, \hyperpage{138}
+    \subitem {amici\+::\+Integration\+FailureB}, \hyperpage{140}
+    \subitem {amici\+::\+Newton\+Failure}, \hyperpage{329}
+  \item {event}
+    \subitem {amimodel}, \hyperpage{492}
+  \item {Exp\+Data}, \hyperpage{101}
+    \subitem {amici}, \hyperpage{63}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{103--106}
+  \item {exp\+Data\+From\+Matlab\+Call}
+    \subitem {amici}, \hyperpage{31}
+
+  \indexspace
+
+  \item {f\+F\+IM}
+    \subitem {amici\+::\+Model}, \hyperpage{213}
+  \item {F\+IM}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{353}
+  \item {f\+J\+Diag}
+    \subitem {amici\+::\+Model}, \hyperpage{153}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{278}, 
+		\hyperpage{293}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{307, 308}, 
+		\hyperpage{322}
+  \item {f\+J\+Sparse}
+    \subitem {amici\+::\+Model}, \hyperpage{153}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{276, 277}, 
+		\hyperpage{291}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{305, 306}, 
+		\hyperpage{321}
+  \item {f\+J\+SparseB}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{277}, 
+		\hyperpage{292}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{306}, 
+		\hyperpage{322}
+  \item {f\+JB}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{275}, 
+		\hyperpage{291}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{304}, 
+		\hyperpage{321}
+  \item {f\+Jrz}
+    \subitem {amici\+::\+Model}, \hyperpage{175}, \hyperpage{244}
+  \item {f\+Jv}
+    \subitem {amici\+::\+Model}, \hyperpage{154}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{279, 280}, 
+		\hyperpage{293}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{309, 310}, 
+		\hyperpage{323}
+  \item {f\+JvB}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{281}, 
+		\hyperpage{294}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{311}, 
+		\hyperpage{323}
+  \item {f\+Jy}
+    \subitem {amici\+::\+Model}, \hyperpage{173}, \hyperpage{243}
+  \item {f\+Jz}
+    \subitem {amici\+::\+Model}, \hyperpage{174}, \hyperpage{244}
+  \item {fchi2}
+    \subitem {amici\+::\+Model}, \hyperpage{212}
+  \item {fd\+Jrzdsigma}
+    \subitem {amici\+::\+Model}, \hyperpage{179}, \hyperpage{247}
+  \item {fd\+Jrzdz}
+    \subitem {amici\+::\+Model}, \hyperpage{178}, \hyperpage{247}
+  \item {fd\+Jydp}
+    \subitem {amici\+::\+Model}, \hyperpage{181}
+  \item {fd\+Jydsigma}
+    \subitem {amici\+::\+Model}, \hyperpage{176}, \hyperpage{245}
+  \item {fd\+Jydx}
+    \subitem {amici\+::\+Model}, \hyperpage{182}
+  \item {fd\+Jydy}
+    \subitem {amici\+::\+Model}, \hyperpage{175}, \hyperpage{245}
+  \item {fd\+Jzdp}
+    \subitem {amici\+::\+Model}, \hyperpage{184}
+  \item {fd\+Jzdsigma}
+    \subitem {amici\+::\+Model}, \hyperpage{177}, \hyperpage{246}
+  \item {fd\+Jzdx}
+    \subitem {amici\+::\+Model}, \hyperpage{184}
+  \item {fd\+Jzdz}
+    \subitem {amici\+::\+Model}, \hyperpage{177}, \hyperpage{246}
+  \item {fdeltaqB}
+    \subitem {amici\+::\+Model}, \hyperpage{170}, \hyperpage{241}
+  \item {fdeltasx}
+    \subitem {amici\+::\+Model}, \hyperpage{168}, \hyperpage{240}
+  \item {fdeltax}
+    \subitem {amici\+::\+Model}, \hyperpage{167}, \hyperpage{238}
+  \item {fdeltaxB}
+    \subitem {amici\+::\+Model}, \hyperpage{169}, \hyperpage{240}
+  \item {fdrzdp}
+    \subitem {amici\+::\+Model}, \hyperpage{166}, \hyperpage{237}
+  \item {fdrzdx}
+    \subitem {amici\+::\+Model}, \hyperpage{167}, \hyperpage{238}
+  \item {fdsigmaydp}
+    \subitem {amici\+::\+Model}, \hyperpage{171}, \hyperpage{242}
+  \item {fdsigmazdp}
+    \subitem {amici\+::\+Model}, \hyperpage{172}, \hyperpage{243}
+  \item {fdwdp}
+    \subitem {amici\+::\+Model}, \hyperpage{208}, \hyperpage{248}
+  \item {fdwdx}
+    \subitem {amici\+::\+Model}, \hyperpage{209}, \hyperpage{249}
+  \item {fdx0}
+    \subitem {amici\+::\+Model}, \hyperpage{157}
+  \item {fdxdotdp}
+    \subitem {amici\+::\+Model}, \hyperpage{154}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{286, 287}, 
+		\hyperpage{297}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{317, 318}, 
+		\hyperpage{326}
+  \item {fdydp}
+    \subitem {amici\+::\+Model}, \hyperpage{160}, \hyperpage{233}
+  \item {fdydx}
+    \subitem {amici\+::\+Model}, \hyperpage{161}, \hyperpage{234}
+  \item {fdzdp}
+    \subitem {amici\+::\+Model}, \hyperpage{165}, \hyperpage{236}
+  \item {fdzdx}
+    \subitem {amici\+::\+Model}, \hyperpage{166}, \hyperpage{237}
+  \item {fixed\+Parameters}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{127}
+    \subitem {amici\+::\+Model}, \hyperpage{268}
+  \item {fixed\+Parameters\+Preequilibration}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{127}
+  \item {fixed\+Parameters\+Presimulation}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{127}
+  \item {fJ}
+    \subitem {amici\+::\+Model}, \hyperpage{152}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{273, 274}, 
+		\hyperpage{290}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{302, 303}, 
+		\hyperpage{320}
+  \item {fM}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{289}, 
+		\hyperpage{299}
+  \item {forward}
+    \subitem {amimodel}, \hyperpage{493}
+  \item {Forward\+Problem}, \hyperpage{128}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{129}
+  \item {fq\+Bdot}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{286}, 
+		\hyperpage{296}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{316}, 
+		\hyperpage{325}
+  \item {fres}
+    \subitem {amici\+::\+Model}, \hyperpage{211}
+  \item {froot}
+    \subitem {amici\+::\+Model}, \hyperpage{150}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{282, 283}, 
+		\hyperpage{295}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{311, 312}, 
+		\hyperpage{324}
+  \item {frz}
+    \subitem {amici\+::\+Model}, \hyperpage{163}, \hyperpage{235}
+  \item {fs\+Jy}
+    \subitem {amici\+::\+Model}, \hyperpage{181}
+  \item {fs\+Jz}
+    \subitem {amici\+::\+Model}, \hyperpage{183}
+  \item {fsdx0}
+    \subitem {amici\+::\+Model}, \hyperpage{159}
+  \item {fsigmay}
+    \subitem {amici\+::\+Model}, \hyperpage{171}, \hyperpage{242}
+  \item {fsigmaz}
+    \subitem {amici\+::\+Model}, \hyperpage{172}, \hyperpage{243}
+  \item {fsres}
+    \subitem {amici\+::\+Model}, \hyperpage{212}
+  \item {fsrz}
+    \subitem {amici\+::\+Model}, \hyperpage{164}, \hyperpage{236}
+  \item {fstau}
+    \subitem {amici\+::\+Model}, \hyperpage{159}, \hyperpage{232}
+  \item {fsx0}
+    \subitem {amici\+::\+Model}, \hyperpage{157}, \hyperpage{232}
+  \item {fsx0\+\_\+fixed\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{158}, \hyperpage{231}
+  \item {fsxdot}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{288}, 
+		\hyperpage{298}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{319}, 
+		\hyperpage{326}
+  \item {fsy}
+    \subitem {amici\+::\+Model}, \hyperpage{179}
+  \item {fsz}
+    \subitem {amici\+::\+Model}, \hyperpage{162}, \hyperpage{234}
+  \item {fsz\+\_\+tf}
+    \subitem {amici\+::\+Model}, \hyperpage{180}
+  \item {fun}
+    \subitem {amimodel}, \hyperpage{492}
+  \item {funs}
+    \subitem {amimodel}, \hyperpage{499}
+  \item {funstr}
+    \subitem {amifun}, \hyperpage{477}
+  \item {fw}
+    \subitem {amici\+::\+Model}, \hyperpage{207}, \hyperpage{248}
+  \item {fx0}
+    \subitem {amici\+::\+Model}, \hyperpage{155}, \hyperpage{230}
+  \item {fx0\+\_\+fixed\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{156}, \hyperpage{231}
+  \item {fx\+Bdot}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{285}, 
+		\hyperpage{296}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{316}, 
+		\hyperpage{325}
+  \item {fxdot}
+    \subitem {amici\+::\+Model}, \hyperpage{151}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{283, 284}, 
+		\hyperpage{295}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{314, 315}, 
+		\hyperpage{324}
+  \item {fy}
+    \subitem {amici\+::\+Model}, \hyperpage{159}, \hyperpage{233}
+  \item {fz}
+    \subitem {amici\+::\+Model}, \hyperpage{161}, \hyperpage{234}
+
+  \indexspace
+
+  \item {gccode}
+    \subitem {amifun}, \hyperpage{473}
+  \item {generate\+C\+Code}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{383}
+  \item {generate\+Matlab\+Wrapper}
+    \subitem {amimodel}, \hyperpage{491}
+  \item {generateC}
+    \subitem {amimodel}, \hyperpage{484}
+  \item {generateM}
+    \subitem {amimodel}, \hyperpage{485}
+  \item {get\+Absolute\+Tolerance}
+    \subitem {amici\+::\+Solver}, \hyperpage{416}
+  \item {get\+Absolute\+Tolerance\+Quadratures}
+    \subitem {amici\+::\+Solver}, \hyperpage{418}
+  \item {get\+Adj\+Bmem}
+    \subitem {amici\+::\+Solver}, \hyperpage{451}
+  \item {get\+Adj\+Malloc\+Done}
+    \subitem {amici\+::\+Solver}, \hyperpage{451}
+  \item {get\+Args}
+    \subitem {amifun}, \hyperpage{474}
+  \item {get\+Backtrace}
+    \subitem {amici\+::\+Ami\+Exception}, \hyperpage{79}
+  \item {get\+C\+Var}
+    \subitem {amifun}, \hyperpage{475}
+  \item {get\+D\+Jydx}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{133}
+  \item {get\+D\+Jzdx}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{133}
+  \item {get\+Deps}
+    \subitem {amifun}, \hyperpage{474}
+  \item {get\+Diagnosis}
+    \subitem {amici\+::\+Solver}, \hyperpage{403}
+  \item {get\+DiagnosisB}
+    \subitem {amici\+::\+Solver}, \hyperpage{403}
+  \item {get\+Discontinuities}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{132}
+  \item {get\+Dky}
+    \subitem {amici\+::\+Solver}, \hyperpage{438}
+  \item {get\+Fixed\+Parameter\+By\+Id}
+    \subitem {amici\+::\+Model}, \hyperpage{196}
+  \item {get\+Fixed\+Parameter\+By\+Name}
+    \subitem {amici\+::\+Model}, \hyperpage{196}
+  \item {get\+Fixed\+Parameter\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{227}
+  \item {get\+Fixed\+Parameter\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{219}
+  \item {get\+Fixed\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{194}
+  \item {get\+Fun}
+    \subitem {amimodel}, \hyperpage{485}
+  \item {get\+Function\+Body}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{386}
+  \item {get\+Initial\+State\+Sensitivities}
+    \subitem {amici\+::\+Model}, \hyperpage{203}
+  \item {get\+Initial\+States}
+    \subitem {amici\+::\+Model}, \hyperpage{203}
+  \item {get\+Internal\+Sensitivity\+Method}
+    \subitem {amici\+::\+Solver}, \hyperpage{426}
+  \item {get\+Interpolation\+Type}
+    \subitem {amici\+::\+Solver}, \hyperpage{423}
+  \item {get\+Last\+Order}
+    \subitem {amici\+::\+Solver}, \hyperpage{447}
+  \item {get\+Length}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{86}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{93}
+  \item {get\+Linear\+Multistep\+Method}
+    \subitem {amici\+::\+Solver}, \hyperpage{421}
+  \item {get\+Linear\+Solver}
+    \subitem {amici\+::\+Solver}, \hyperpage{425}
+  \item {get\+Malloc\+Done}
+    \subitem {amici\+::\+Solver}, \hyperpage{451}
+  \item {get\+Max\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{419}
+  \item {get\+Max\+Steps\+Backward\+Problem}
+    \subitem {amici\+::\+Solver}, \hyperpage{420}
+  \item {get\+Model}
+    \subitem {amici\+::\+Solver}, \hyperpage{450}
+  \item {get\+N\+Vecs}
+    \subitem {amifun}, \hyperpage{475}
+  \item {get\+N\+Vector}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{84}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{92}
+  \item {get\+N\+Vector\+Array}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{92}
+  \item {get\+NaN}
+    \subitem {amici}, \hyperpage{56}
+  \item {get\+Newton\+Max\+Linear\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{412}
+  \item {get\+Newton\+Max\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{410}
+  \item {get\+Newton\+Output}
+    \subitem {amici\+::\+Steadystate\+Problem}, \hyperpage{460}
+  \item {get\+Newton\+Preequilibration}
+    \subitem {amici\+::\+Solver}, \hyperpage{411}
+  \item {get\+Nonlinear\+Solver\+Iteration}
+    \subitem {amici\+::\+Solver}, \hyperpage{422}
+  \item {get\+Num\+Err\+Test\+Fails}
+    \subitem {amici\+::\+Solver}, \hyperpage{446}
+  \item {get\+Num\+Nonlin\+Solv\+Conv\+Fails}
+    \subitem {amici\+::\+Solver}, \hyperpage{447}
+  \item {get\+Num\+Rhs\+Evals}
+    \subitem {amici\+::\+Solver}, \hyperpage{446}
+  \item {get\+Num\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{445}
+  \item {get\+Number\+Of\+Roots}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{132}
+  \item {get\+Observable\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{228}
+  \item {get\+Observable\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{219}
+  \item {get\+Observed\+Data}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{111}
+  \item {get\+Observed\+Data\+Ptr}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{111}
+  \item {get\+Observed\+Data\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{116}
+  \item {get\+Observed\+Data\+Std\+Dev\+Ptr}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{116}
+  \item {get\+Observed\+Events}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{118}
+  \item {get\+Observed\+Events\+Ptr}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{119}
+  \item {get\+Observed\+Events\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{123}
+  \item {get\+Observed\+Events\+Std\+Dev\+Ptr}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{123}
+  \item {get\+Parameter\+By\+Id}
+    \subitem {amici\+::\+Model}, \hyperpage{221}
+  \item {get\+Parameter\+By\+Name}
+    \subitem {amici\+::\+Model}, \hyperpage{222}
+  \item {get\+Parameter\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{221}
+  \item {get\+Parameter\+List}
+    \subitem {amici\+::\+Model}, \hyperpage{202}
+  \item {get\+Parameter\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{216}
+  \item {get\+Parameter\+Scale}
+    \subitem {amici\+::\+Model}, \hyperpage{192}
+  \item {get\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{193}
+  \item {get\+QuadB}
+    \subitem {amici\+::\+Solver}, \hyperpage{408}
+  \item {get\+R\+H\+S\+At\+Discontinuities}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{131}
+  \item {get\+R\+H\+S\+Before\+Discontinuities}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{132}
+  \item {get\+Reinitialize\+Fixed\+Parameter\+Initial\+States}
+    \subitem {amici\+::\+Model}, \hyperpage{230}
+  \item {get\+Relative\+Tolerance}
+    \subitem {amici\+::\+Solver}, \hyperpage{414}
+  \item {get\+Relative\+Tolerance\+Quadratures}
+    \subitem {amici\+::\+Solver}, \hyperpage{417}
+  \item {get\+Return\+Data\+Matlab\+From\+Amici\+Call}
+    \subitem {amici}, \hyperpage{33}
+  \item {get\+Root\+Counter}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{133}
+  \item {get\+Root\+Indexes}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{132}
+  \item {get\+Root\+Info}
+    \subitem {amici\+::\+Solver}, \hyperpage{404}
+  \item {get\+Rule\+Vars}
+    \subitem {amici\+::sbml\+\_\+import}, \hyperpage{75}
+  \item {get\+Sens}
+    \subitem {amici\+::\+Solver}, \hyperpage{402}
+  \item {get\+Sensi\+Flag}
+    \subitem {amifun}, \hyperpage{475}
+  \item {get\+Sensitivity\+Method}
+    \subitem {amici\+::\+Solver}, \hyperpage{409}
+  \item {get\+Sensitivity\+Order}
+    \subitem {amici\+::\+Solver}, \hyperpage{413}
+  \item {get\+Solver}
+    \subitem {amici\+::\+Model}, \hyperpage{150}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{290}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{320}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{330}
+  \item {get\+Sparse\+Sym\+Lines}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{392}
+  \item {get\+Sparse\+Symbols}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{378}
+  \item {get\+Stability\+Limit\+Flag}
+    \subitem {amici\+::\+Solver}, \hyperpage{424}
+  \item {get\+State\+Derivative\+Pointer}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{134}
+  \item {get\+State\+Derivative\+Sensitivity\+Pointer}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{135}
+  \item {get\+State\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{226}
+  \item {get\+State\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{217}
+  \item {get\+State\+Ordering}
+    \subitem {amici\+::\+Solver}, \hyperpage{423}
+  \item {get\+State\+Pointer}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{134}
+  \item {get\+State\+Sensitivity}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{131}
+  \item {get\+State\+Sensitivity\+Pointer}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{134}
+  \item {get\+States\+At\+Discontinuities}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{131}
+  \item {get\+Steady\+State\+Sensitivity\+Mode}
+    \subitem {amici\+::\+Model}, \hyperpage{229}
+  \item {get\+Steadystate\+Simulation}
+    \subitem {amici\+::\+Steadystate\+Problem}, \hyperpage{460}
+  \item {get\+Step}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{331}
+  \item {get\+Sym\+Lines}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{392}
+  \item {get\+Symbol\+I\+D\+Initializer\+List}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{389}
+  \item {get\+Symbol\+Name\+Initializer\+List}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{389}
+  \item {get\+Symbolic\+Diagonal}
+    \subitem {amici\+::sbml\+\_\+import}, \hyperpage{74}
+  \item {get\+Symbols}
+    \subitem {amici\+::sbml\+\_\+import}, \hyperpage{73}
+  \item {get\+Syms}
+    \subitem {amifun}, \hyperpage{475}
+  \item {get\+Time}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{130}
+  \item {get\+Timepoint}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{109}
+  \item {get\+Timepoints}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{108}
+    \subitem {amici\+::\+Model}, \hyperpage{199}
+  \item {get\+Unscaled\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{194}
+  \item {get\+Value\+By\+Id}
+    \subitem {amici}, \hyperpage{67}
+  \item {get\+Vector}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{85}
+  \item {getB}
+    \subitem {amici\+::\+Solver}, \hyperpage{408}
+  \item {getd\+Jydx}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{99}
+  \item {getdx\+Bptr}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{99}
+  \item {getmy}
+    \subitem {amici\+::\+Model}, \hyperpage{249}
+  \item {getmz}
+    \subitem {amici\+::\+Model}, \hyperpage{250}
+  \item {getoptimized}
+    \subitem {optsym}, \hyperpage{515}
+  \item {getrz}
+    \subitem {amici\+::\+Model}, \hyperpage{254}
+  \item {getsrz}
+    \subitem {amici\+::\+Model}, \hyperpage{256}
+  \item {getsx}
+    \subitem {amici\+::\+Model}, \hyperpage{253}
+  \item {getsz}
+    \subitem {amici\+::\+Model}, \hyperpage{255}
+  \item {gett}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{96}
+    \subitem {amici\+::\+Model}, \hyperpage{214}
+  \item {getwhich}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{97}
+  \item {getwhichptr}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{97}
+  \item {getx}
+    \subitem {amici\+::\+Model}, \hyperpage{252}
+  \item {getx\+Bptr}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{98}
+  \item {getx\+Q\+Bptr}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{98}
+  \item {gety}
+    \subitem {amici\+::\+Model}, \hyperpage{251}
+  \item {getz}
+    \subitem {amici\+::\+Model}, \hyperpage{254}
+
+  \indexspace
+
+  \item {h}
+    \subitem {amici\+::\+Model}, \hyperpage{267}
+  \item {H\+Table}
+    \subitem {amimodel}, \hyperpage{492}
+  \item {has\+Fixed\+Parameter\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{226}
+  \item {has\+Fixed\+Parameter\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{218}
+  \item {has\+Observable\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{228}
+  \item {has\+Observable\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{219}
+  \item {has\+Parameter\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{220}
+  \item {has\+Parameter\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{215}
+  \item {has\+State\+Ids}
+    \subitem {amici\+::\+Model}, \hyperpage{225}
+  \item {has\+State\+Names}
+    \subitem {amici\+::\+Model}, \hyperpage{217}
+  \item {heaviside}
+    \subitem {amici}, \hyperpage{51}
+  \item {hflag}
+    \subitem {amievent}, \hyperpage{470}
+
+  \indexspace
+
+  \item {I\+D\+A\+Exception}, \hyperpage{136}
+    \subitem {amici\+::\+I\+D\+A\+Exception}, \hyperpage{137}
+  \item {id}
+    \subitem {amimodel}, \hyperpage{496}
+  \item {idlist}
+    \subitem {amici\+::\+Model}, \hyperpage{261}
+  \item {init}
+    \subitem {amici\+::\+Solver}, \hyperpage{427}
+  \item {init\+And\+Attach\+Array}
+    \subitem {amici}, \hyperpage{41}
+  \item {init\+Heaviside}
+    \subitem {amici\+::\+Model}, \hyperpage{186}
+  \item {init\+Matlab\+Diagnosis\+Fields}
+    \subitem {amici}, \hyperpage{35}
+  \item {init\+Matlab\+Return\+Fields}
+    \subitem {amici}, \hyperpage{34}
+  \item {initialize}
+    \subitem {amici\+::\+Model}, \hyperpage{185}
+  \item {initialize\+Linear\+Solver}
+    \subitem {amici\+::\+Solver}, \hyperpage{448}
+  \item {initialize\+Linear\+SolverB}
+    \subitem {amici\+::\+Solver}, \hyperpage{449}
+  \item {initialize\+States}
+    \subitem {amici\+::\+Model}, \hyperpage{186}
+  \item {Integration\+Failure}, \hyperpage{137}
+    \subitem {amici\+::\+Integration\+Failure}, \hyperpage{138}
+  \item {Integration\+FailureB}, \hyperpage{139}
+    \subitem {amici\+::\+Integration\+FailureB}, \hyperpage{139}
+  \item {interface\+\_\+matlab.\+cpp}, \hyperpage{531}
+    \subitem {mex\+Function}, \hyperpage{532}
+  \item {Internal\+Sensitivity\+Method}
+    \subitem {amici}, \hyperpage{21}
+  \item {interp\+Type}
+    \subitem {amici\+::\+Solver}, \hyperpage{457}
+    \subitem {amioption}, \hyperpage{507}
+  \item {Interpolation\+Type}
+    \subitem {amici}, \hyperpage{21}
+  \item {invalidate}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{347}
+  \item {invalidate\+L\+LH}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{348}
+  \item {is\+Fixed\+Parameter\+State\+Reinitialization\+Allowed}
+    \subitem {amici\+::\+Model}, \hyperpage{256}
+  \item {is\+Inf}
+    \subitem {amici}, \hyperpage{55}
+  \item {is\+NaN}
+    \subitem {amici}, \hyperpage{54}
+  \item {is\+Set\+Observed\+Data}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{110}
+  \item {is\+Set\+Observed\+Data\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{115}
+  \item {is\+Set\+Observed\+Events}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{118}
+  \item {is\+Set\+Observed\+Events\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{122}
+  \item {ism}
+    \subitem {amici\+::\+Solver}, \hyperpage{456}
+    \subitem {amioption}, \hyperpage{507}
+  \item {iter}
+    \subitem {amici\+::\+Solver}, \hyperpage{457}
+    \subitem {amioption}, \hyperpage{506}
+
+  \indexspace
+
+  \item {J}
+    \subitem {amici\+::\+Model}, \hyperpage{263}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{350}
+
+  \indexspace
+
+  \item {k}
+    \subitem {amici\+::\+Model}, \hyperpage{190}
+  \item {klu}
+    \subitem {amici\+::\+Solver}, \hyperpage{444}
+  \item {klu\+Set\+Ordering}
+    \subitem {amici\+::\+Solver}, \hyperpage{444}
+  \item {klu\+Set\+OrderingB}
+    \subitem {amici\+::\+Solver}, \hyperpage{445}
+  \item {kluB}
+    \subitem {amici\+::\+Solver}, \hyperpage{445}
+
+  \indexspace
+
+  \item {lbw}
+    \subitem {amici\+::\+Model}, \hyperpage{260}
+    \subitem {amimodel}, \hyperpage{497}
+  \item {Linear\+Multistep\+Method}
+    \subitem {amici}, \hyperpage{21}
+  \item {Linear\+Solver}
+    \subitem {amici}, \hyperpage{20}
+  \item {linsol}
+    \subitem {amioption}, \hyperpage{507}
+  \item {linsolve\+S\+P\+B\+CG}
+    \subitem {amici\+::\+Newton\+Solver\+Iterative}, \hyperpage{341}
+  \item {llh}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{356}
+  \item {lmm}
+    \subitem {amici\+::\+Solver}, \hyperpage{456}
+    \subitem {amioption}, \hyperpage{506}
+  \item {load\+Old\+Hashes}
+    \subitem {amimodel}, \hyperpage{488}
+  \item {load\+S\+B\+M\+L\+File}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{365}
+  \item {log}
+    \subitem {amici}, \hyperpage{50}
+
+  \indexspace
+
+  \item {M}
+    \subitem {amici\+::\+Model}, \hyperpage{267}
+  \item {M\+\_\+\+PI}
+    \subitem {amici.\+cpp}, \hyperpage{529}
+  \item {make\+Events}
+    \subitem {amimodel}, \hyperpage{486}
+  \item {make\+Syms}
+    \subitem {amimodel}, \hyperpage{487}
+  \item {max}
+    \subitem {amici}, \hyperpage{52}
+  \item {maxflag}
+    \subitem {amimodel}, \hyperpage{502}
+  \item {maxlinsteps}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{334}
+  \item {maxsteps}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{334}
+    \subitem {amici\+::\+Solver}, \hyperpage{457}
+    \subitem {amioption}, \hyperpage{505}
+  \item {maxstepsB}
+    \subitem {amioption}, \hyperpage{506}
+  \item {mex\+Function}
+    \subitem {interface\+\_\+matlab.\+cpp}, \hyperpage{532}
+  \item {mfuns}
+    \subitem {amimodel}, \hyperpage{499}
+  \item {min}
+    \subitem {amici}, \hyperpage{51}
+  \item {minflag}
+    \subitem {amimodel}, \hyperpage{501}
+  \item {minus}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{86}
+  \item {Model}, \hyperpage{140}
+    \subitem {amici\+::\+Model}, \hyperpage{148, 149}
+  \item {model}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{135}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{335}
+    \subitem {amised}, \hyperpage{512}
+  \item {Model\+\_\+\+D\+AE}, \hyperpage{270}
+    \subitem {amici\+::\+Model\+\_\+\+D\+AE}, \hyperpage{272}
+  \item {Model\+\_\+\+O\+DE}, \hyperpage{299}
+    \subitem {amici\+::\+Model\+\_\+\+O\+DE}, \hyperpage{301, 302}
+  \item {modelname}
+    \subitem {amimodel}, \hyperpage{492}
+    \subitem {amised}, \hyperpage{512}
+  \item {msg\+Id\+And\+Txt\+Fp}
+    \subitem {amici}, \hyperpage{19}
+  \item {mx\+Array\+To\+Vector}
+    \subitem {amici}, \hyperpage{66}
+  \item {my}
+    \subitem {amici\+::\+Model}, \hyperpage{263}
+  \item {mz}
+    \subitem {amici\+::\+Model}, \hyperpage{264}
+
+  \indexspace
+
+  \item {n\+Max\+Event}
+    \subitem {amici\+::\+Model}, \hyperpage{190}
+  \item {ndwdp}
+    \subitem {amici\+::\+Model}, \hyperpage{259}
+    \subitem {amimodel}, \hyperpage{502}
+  \item {ndwdx}
+    \subitem {amici\+::\+Model}, \hyperpage{259}
+    \subitem {amimodel}, \hyperpage{502}
+  \item {ne}
+    \subitem {amici\+::\+Model}, \hyperpage{259}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{359}
+    \subitem {amidata}, \hyperpage{465}
+  \item {nevent}
+    \subitem {amimodel}, \hyperpage{496}
+  \item {newton\+\_\+maxlinsteps}
+    \subitem {amioption}, \hyperpage{509}
+  \item {newton\+\_\+maxsteps}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{360}
+    \subitem {amioption}, \hyperpage{509}
+  \item {newton\+\_\+numlinsteps}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{356}
+  \item {newton\+\_\+numsteps}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{356}
+  \item {newton\+\_\+preeq}
+    \subitem {amioption}, \hyperpage{510}
+  \item {newton\+\_\+status}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{355}
+  \item {newton\+\_\+time}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{355}
+  \item {Newton\+Failure}, \hyperpage{327}
+    \subitem {amici\+::\+Newton\+Failure}, \hyperpage{328}
+  \item {Newton\+Solver}, \hyperpage{329}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{330}
+  \item {Newton\+Solver\+Dense}, \hyperpage{336}
+    \subitem {amici\+::\+Newton\+Solver\+Dense}, \hyperpage{337}
+  \item {Newton\+Solver\+Iterative}, \hyperpage{339}
+    \subitem {amici\+::\+Newton\+Solver\+Iterative}, \hyperpage{339}
+  \item {Newton\+Solver\+Sparse}, \hyperpage{343}
+    \subitem {amici\+::\+Newton\+Solver\+Sparse}, \hyperpage{343}
+  \item {Newton\+Status}
+    \subitem {amici}, \hyperpage{22}
+  \item {ng}
+    \subitem {amimodel}, \hyperpage{495}
+  \item {nJ}
+    \subitem {amici\+::\+Model}, \hyperpage{260}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{359}
+  \item {nk}
+    \subitem {amici\+::\+Model}, \hyperpage{189}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{358}
+    \subitem {amidata}, \hyperpage{465}
+    \subitem {amimodel}, \hyperpage{495}
+  \item {nmaxevent}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{126}
+    \subitem {amici\+::\+Model}, \hyperpage{269}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{360}
+    \subitem {amioption}, \hyperpage{508}
+  \item {nnz}
+    \subitem {amici\+::\+Model}, \hyperpage{260}
+    \subitem {amimodel}, \hyperpage{497}
+  \item {Nonlinear\+Solver\+Iteration}
+    \subitem {amici}, \hyperpage{21}
+  \item {np}
+    \subitem {amici\+::\+Model}, \hyperpage{188}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{357}
+    \subitem {amimodel}, \hyperpage{495}
+  \item {nplist}
+    \subitem {amici\+::\+Model}, \hyperpage{187}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{359}
+    \subitem {amici\+::\+Solver}, \hyperpage{450}
+  \item {nt}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{107}
+    \subitem {amici\+::\+Model}, \hyperpage{191}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{360}
+    \subitem {amidata}, \hyperpage{464}
+  \item {numerrtestfails}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{354}
+  \item {numerrtestfailsB}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{354}
+  \item {numnonlinsolvconvfails}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{355}
+  \item {numnonlinsolvconvfailsB}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{355}
+  \item {numrhsevals}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{354}
+  \item {numrhsevalsB}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{354}
+  \item {numsteps}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{353}
+  \item {numstepsB}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{354}
+  \item {nvecs}
+    \subitem {amifun}, \hyperpage{478}
+  \item {nw}
+    \subitem {amici\+::\+Model}, \hyperpage{259}
+    \subitem {amimodel}, \hyperpage{502}
+  \item {nx}
+    \subitem {amici\+::\+Model}, \hyperpage{258}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{358}
+    \subitem {amici\+::\+Solver}, \hyperpage{450}
+    \subitem {amimodel}, \hyperpage{494}
+  \item {nxtrue}
+    \subitem {amici\+::\+Model}, \hyperpage{258}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{358}
+    \subitem {amimodel}, \hyperpage{494}
+  \item {ny}
+    \subitem {amici\+::\+Model}, \hyperpage{258}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{358}
+    \subitem {amidata}, \hyperpage{465}
+    \subitem {amimodel}, \hyperpage{494}
+  \item {nytrue}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{126}
+    \subitem {amici\+::\+Model}, \hyperpage{258}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{358}
+    \subitem {amimodel}, \hyperpage{495}
+  \item {nz}
+    \subitem {amici\+::\+Model}, \hyperpage{258}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{359}
+    \subitem {amidata}, \hyperpage{465}
+    \subitem {amimodel}, \hyperpage{496}
+  \item {nztrue}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{126}
+    \subitem {amici\+::\+Model}, \hyperpage{259}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{359}
+    \subitem {amimodel}, \hyperpage{496}
+
+  \indexspace
+
+  \item {o2flag}
+    \subitem {amimodel}, \hyperpage{501}
+  \item {o2mode}
+    \subitem {amici\+::\+Model}, \hyperpage{260}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{360}
+  \item {observed\+Data}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{127}
+  \item {observed\+Data\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{128}
+  \item {observed\+Events}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{128}
+  \item {observed\+Events\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{128}
+  \item {operator=}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{81}
+    \subitem {amici\+::\+Model}, \hyperpage{150}
+  \item {operator==}
+    \subitem {amici}, \hyperpage{33}, \hyperpage{46}
+    \subitem {amici\+::\+Model}, \hyperpage{257}
+    \subitem {amici\+::\+Solver}, \hyperpage{455}
+  \item {operator[]}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{87}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{93}
+  \item {optsym}, \hyperpage{514}
+    \subitem {getoptimized}, \hyperpage{515}
+    \subitem {optsym}, \hyperpage{514}
+  \item {order}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{355}
+  \item {ordering}
+    \subitem {amioption}, \hyperpage{508}
+  \item {original\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{268}
+  \item {outputcount}
+    \subitem {amised}, \hyperpage{513}
+
+  \indexspace
+
+  \item {param}
+    \subitem {amimodel}, \hyperpage{500}
+  \item {Parameter\+Scaling}
+    \subitem {amici}, \hyperpage{20}
+  \item {parse\+Model}
+    \subitem {amimodel}, \hyperpage{483}
+  \item {pi}
+    \subitem {amici}, \hyperpage{70}
+  \item {plist}
+    \subitem {amici\+::\+Model}, \hyperpage{206}
+  \item {plist\+\_\+}
+    \subitem {amici\+::\+Model}, \hyperpage{268}
+  \item {plot\+Observable\+Trajectories}
+    \subitem {amici\+::plotting}, \hyperpage{71}
+  \item {plot\+State\+Trajectories}
+    \subitem {amici\+::plotting}, \hyperpage{71}
+  \item {pos\+\_\+pow}
+    \subitem {amici}, \hyperpage{54}
+  \item {prepare\+Linear\+System}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{333}
+    \subitem {amici\+::\+Newton\+Solver\+Dense}, \hyperpage{338}
+    \subitem {amici\+::\+Newton\+Solver\+Iterative}, \hyperpage{341}
+    \subitem {amici\+::\+Newton\+Solver\+Sparse}, \hyperpage{344}
+  \item {prepare\+Model\+Folder}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{383}
+  \item {print\+Err\+Msg\+Id\+And\+Txt}
+    \subitem {amici}, \hyperpage{22}
+  \item {print\+Warn\+Msg\+Id\+And\+Txt}
+    \subitem {amici}, \hyperpage{23}
+  \item {print\+With\+Exception}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{393}
+  \item {process\+Compartments}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{373}
+  \item {process\+Parameters}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{371}
+  \item {process\+Reactions}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{373}
+  \item {process\+Rules}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{374}
+  \item {process\+S\+B\+ML}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{370}
+  \item {process\+Species}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{371}
+  \item {process\+Time}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{375}
+  \item {process\+Volume\+Conversion}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{374}
+  \item {pscale}
+    \subitem {amici\+::\+Model}, \hyperpage{269}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{360}
+    \subitem {amioption}, \hyperpage{510}
+
+  \indexspace
+
+  \item {qbinit}
+    \subitem {amici\+::\+Solver}, \hyperpage{428}
+  \item {quad\+\_\+atol}
+    \subitem {amioption}, \hyperpage{505}
+  \item {quad\+\_\+rtol}
+    \subitem {amioption}, \hyperpage{505}
+  \item {quad\+Re\+InitB}
+    \subitem {amici\+::\+Solver}, \hyperpage{409}
+  \item {quad\+S\+StolerancesB}
+    \subitem {amici\+::\+Solver}, \hyperpage{439}
+
+  \indexspace
+
+  \item {rdata}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{135}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{335}
+  \item {re\+Init}
+    \subitem {amici\+::\+Solver}, \hyperpage{404}
+  \item {re\+InitB}
+    \subitem {amici\+::\+Solver}, \hyperpage{408}
+  \item {realtype}
+    \subitem {amici}, \hyperpage{19}
+  \item {recompile}
+    \subitem {amimodel}, \hyperpage{500}
+  \item {reinitialize\+Fixed\+Parameter\+Initial\+States}
+    \subitem {amici\+::\+Model}, \hyperpage{270}
+  \item {reorder}
+    \subitem {amici}, \hyperpage{43}
+  \item {replace\+In\+All\+Expressions}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{375}
+  \item {replace\+Log\+AB}
+    \subitem {amici\+::sbml\+\_\+import}, \hyperpage{76}
+  \item {replace\+Special\+Constants}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{377}
+  \item {res}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{353}
+  \item {reset}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{86}
+    \subitem {amici\+::\+Ami\+Vector\+Array}, \hyperpage{94}
+  \item {Return\+Data}, \hyperpage{345}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{347}
+  \item {root\+Init}
+    \subitem {amici\+::\+Solver}, \hyperpage{428}
+  \item {rowvals}
+    \subitem {amimodel}, \hyperpage{498}
+  \item {rowvalsB}
+    \subitem {amimodel}, \hyperpage{498}
+  \item {rtol}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{335}
+    \subitem {amioption}, \hyperpage{505}
+  \item {run\+Amici\+Simulation}
+    \subitem {amici}, \hyperpage{23}, \hyperpage{62}
+  \item {run\+Amici\+Simulations}
+    \subitem {amici}, \hyperpage{64}
+  \item {rz}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{351}
+
+  \indexspace
+
+  \item {s2llh}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{357}
+  \item {s2rz}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{351}
+  \item {S\+B\+M\+L2\+A\+M\+I\+C\+I.\+m}, \hyperpage{533}
+    \subitem {S\+B\+M\+L2\+A\+M\+I\+CI}, \hyperpage{533}
+  \item {S\+B\+M\+L2\+A\+M\+I\+CI}
+    \subitem {S\+B\+M\+L2\+A\+M\+I\+C\+I.\+m}, \hyperpage{533}
+  \item {S\+B\+M\+L\+Exception}, \hyperpage{361}
+  \item {sbml2amici}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{366}
+  \item {Sbml\+Importer}, \hyperpage{362}
+  \item {Second\+Order\+Mode}
+    \subitem {amici}, \hyperpage{20}
+  \item {sedml}
+    \subitem {amised}, \hyperpage{512}
+  \item {sens\+\_\+ind}
+    \subitem {amioption}, \hyperpage{506}
+  \item {sens\+Init1}
+    \subitem {amici\+::\+Solver}, \hyperpage{429}
+  \item {sens\+Re\+Init}
+    \subitem {amici\+::\+Solver}, \hyperpage{405}
+  \item {sensi}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{361}
+    \subitem {amioption}, \hyperpage{508}
+  \item {sensi\+\_\+meth}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{361}
+    \subitem {amioption}, \hyperpage{507}
+  \item {sensiflag}
+    \subitem {amifun}, \hyperpage{478}
+  \item {Sensitivity\+Method}
+    \subitem {amici}, \hyperpage{20}
+  \item {Sensitivity\+Order}
+    \subitem {amici}, \hyperpage{20}
+  \item {serialize\+To\+Char}
+    \subitem {amici}, \hyperpage{44}
+  \item {serialize\+To\+Std\+Vec}
+    \subitem {amici}, \hyperpage{45}
+  \item {serialize\+To\+String}
+    \subitem {amici}, \hyperpage{45}
+  \item {set}
+    \subitem {amici\+::\+Ami\+Vector}, \hyperpage{87}
+  \item {set\+Absolute\+Tolerance}
+    \subitem {amici\+::\+Solver}, \hyperpage{416}
+  \item {set\+Absolute\+Tolerance\+Quadratures}
+    \subitem {amici\+::\+Solver}, \hyperpage{418}
+  \item {set\+Band\+Jac\+Fn}
+    \subitem {amici\+::\+Solver}, \hyperpage{430}
+  \item {set\+Band\+Jac\+FnB}
+    \subitem {amici\+::\+Solver}, \hyperpage{431}
+  \item {set\+Dense\+Jac\+Fn}
+    \subitem {amici\+::\+Solver}, \hyperpage{429}
+  \item {set\+Dense\+Jac\+FnB}
+    \subitem {amici\+::\+Solver}, \hyperpage{430}
+  \item {set\+Err\+Handler\+Fn}
+    \subitem {amici\+::\+Solver}, \hyperpage{434}
+  \item {set\+Fixed\+Parameter\+By\+Id}
+    \subitem {amici\+::\+Model}, \hyperpage{197}
+  \item {set\+Fixed\+Parameter\+By\+Name}
+    \subitem {amici\+::\+Model}, \hyperpage{198}
+  \item {set\+Fixed\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{195}
+  \item {set\+Fixed\+Parameters\+By\+Id\+Regex}
+    \subitem {amici\+::\+Model}, \hyperpage{197}
+  \item {set\+Fixed\+Parameters\+By\+Name\+Regex}
+    \subitem {amici\+::\+Model}, \hyperpage{199}
+  \item {set\+Hflag}
+    \subitem {amievent}, \hyperpage{469}
+  \item {set\+Id}
+    \subitem {amici\+::\+Solver}, \hyperpage{437}
+  \item {set\+Initial\+State\+Sensitivities}
+    \subitem {amici\+::\+Model}, \hyperpage{203}
+  \item {set\+Initial\+States}
+    \subitem {amici\+::\+Model}, \hyperpage{203}
+  \item {set\+Internal\+Sensitivity\+Method}
+    \subitem {amici\+::\+Solver}, \hyperpage{426}
+  \item {set\+Interpolation\+Type}
+    \subitem {amici\+::\+Solver}, \hyperpage{423}
+  \item {set\+Jac\+Times\+Vec\+Fn}
+    \subitem {amici\+::\+Solver}, \hyperpage{430}
+  \item {set\+Jac\+Times\+Vec\+FnB}
+    \subitem {amici\+::\+Solver}, \hyperpage{431}
+  \item {set\+Linear\+Multistep\+Method}
+    \subitem {amici\+::\+Solver}, \hyperpage{421}
+  \item {set\+Linear\+Solver}
+    \subitem {amici\+::\+Solver}, \hyperpage{426}
+  \item {set\+Max\+Num\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{435}
+  \item {set\+Max\+Num\+StepsB}
+    \subitem {amici\+::\+Solver}, \hyperpage{436}
+  \item {set\+Max\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{419}
+  \item {set\+Max\+Steps\+Backward\+Problem}
+    \subitem {amici\+::\+Solver}, \hyperpage{420}
+  \item {set\+Model\+Data}
+    \subitem {amici}, \hyperpage{28}
+  \item {set\+N\+Max\+Event}
+    \subitem {amici\+::\+Model}, \hyperpage{191}
+  \item {set\+Name}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{368}
+  \item {set\+Newton\+Max\+Linear\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{412}
+  \item {set\+Newton\+Max\+Steps}
+    \subitem {amici\+::\+Solver}, \hyperpage{410}
+  \item {set\+Newton\+Preequilibration}
+    \subitem {amici\+::\+Solver}, \hyperpage{411}
+  \item {set\+Nonlinear\+Solver\+Iteration}
+    \subitem {amici\+::\+Solver}, \hyperpage{422}
+  \item {set\+Observed\+Data}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{109, 110}
+  \item {set\+Observed\+Data\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{112--114}
+  \item {set\+Observed\+Events}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{117}
+  \item {set\+Observed\+Events\+Std\+Dev}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{119--121}
+  \item {set\+Parameter\+By\+Id}
+    \subitem {amici\+::\+Model}, \hyperpage{223}
+  \item {set\+Parameter\+By\+Name}
+    \subitem {amici\+::\+Model}, \hyperpage{224}
+  \item {set\+Parameter\+List}
+    \subitem {amici\+::\+Model}, \hyperpage{202}
+  \item {set\+Parameter\+Scale}
+    \subitem {amici\+::\+Model}, \hyperpage{192, 193}
+  \item {set\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{194}
+  \item {set\+Parameters\+By\+Id\+Regex}
+    \subitem {amici\+::\+Model}, \hyperpage{223}
+  \item {set\+Parameters\+By\+Name\+Regex}
+    \subitem {amici\+::\+Model}, \hyperpage{225}
+  \item {set\+Paths}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{369}
+  \item {set\+Quad\+Err\+ConB}
+    \subitem {amici\+::\+Solver}, \hyperpage{434}
+  \item {set\+Reinitialize\+Fixed\+Parameter\+Initial\+States}
+    \subitem {amici\+::\+Model}, \hyperpage{229}
+  \item {set\+Relative\+Tolerance}
+    \subitem {amici\+::\+Solver}, \hyperpage{414}
+  \item {set\+Relative\+Tolerance\+Quadratures}
+    \subitem {amici\+::\+Solver}, \hyperpage{417}
+  \item {set\+S\+Stolerances}
+    \subitem {amici\+::\+Solver}, \hyperpage{432}
+  \item {set\+S\+StolerancesB}
+    \subitem {amici\+::\+Solver}, \hyperpage{439}
+  \item {set\+Sens\+Err\+Con}
+    \subitem {amici\+::\+Solver}, \hyperpage{433}
+  \item {set\+Sens\+Params}
+    \subitem {amici\+::\+Solver}, \hyperpage{438}
+  \item {set\+Sens\+S\+Stolerances}
+    \subitem {amici\+::\+Solver}, \hyperpage{433}
+  \item {set\+Sensitivity\+Method}
+    \subitem {amici\+::\+Solver}, \hyperpage{409}
+  \item {set\+Sensitivity\+Order}
+    \subitem {amici\+::\+Solver}, \hyperpage{413}
+  \item {set\+Solver\+Options}
+    \subitem {amici}, \hyperpage{29}
+  \item {set\+Sparse\+Jac\+Fn}
+    \subitem {amici\+::\+Solver}, \hyperpage{430}
+  \item {set\+Sparse\+Jac\+FnB}
+    \subitem {amici\+::\+Solver}, \hyperpage{431}
+  \item {set\+Stab\+Lim\+Det}
+    \subitem {amici\+::\+Solver}, \hyperpage{436}
+  \item {set\+Stab\+Lim\+DetB}
+    \subitem {amici\+::\+Solver}, \hyperpage{437}
+  \item {set\+Stability\+Limit\+Flag}
+    \subitem {amici\+::\+Solver}, \hyperpage{424}
+  \item {set\+State\+Ordering}
+    \subitem {amici\+::\+Solver}, \hyperpage{424}
+  \item {set\+Steady\+State\+Sensitivity\+Mode}
+    \subitem {amici\+::\+Model}, \hyperpage{229}
+  \item {set\+Stop\+Time}
+    \subitem {amici\+::\+Solver}, \hyperpage{407}
+  \item {set\+Suppress\+Alg}
+    \subitem {amici\+::\+Solver}, \hyperpage{438}
+  \item {set\+T0}
+    \subitem {amici\+::\+Model}, \hyperpage{205}
+  \item {set\+Timepoints}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{107}
+    \subitem {amici\+::\+Model}, \hyperpage{200}
+  \item {set\+User\+Data}
+    \subitem {amici\+::\+Solver}, \hyperpage{434}
+  \item {set\+User\+DataB}
+    \subitem {amici\+::\+Solver}, \hyperpage{435}
+  \item {set\+Value\+By\+Id}
+    \subitem {amici}, \hyperpage{68}
+  \item {set\+Value\+By\+Id\+Regex}
+    \subitem {amici}, \hyperpage{69}
+  \item {setup}
+    \subitem {amici\+::\+Solver}, \hyperpage{400}
+  \item {setup\+A\+M\+IB}
+    \subitem {amici\+::\+Solver}, \hyperpage{401}
+  \item {Setup\+Failure}, \hyperpage{395}
+    \subitem {amici\+::\+Setup\+Failure}, \hyperpage{395}
+  \item {setup\+Return\+Data}
+    \subitem {amici}, \hyperpage{30}
+  \item {seval}
+    \subitem {amici}, \hyperpage{47}
+  \item {Sigma\+\_\+Y}
+    \subitem {amidata}, \hyperpage{466}
+  \item {Sigma\+\_\+Z}
+    \subitem {amidata}, \hyperpage{467}
+  \item {sigmay}
+    \subitem {amici\+::\+Model}, \hyperpage{261}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{352}
+  \item {sigmaz}
+    \subitem {amici\+::\+Model}, \hyperpage{261}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{350}
+  \item {sign}
+    \subitem {amici}, \hyperpage{57}
+  \item {sinteg}
+    \subitem {amici}, \hyperpage{49}
+  \item {sllh}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{357}
+  \item {solve}
+    \subitem {amici\+::\+Solver}, \hyperpage{406}
+  \item {solve\+Linear\+System}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{333}
+    \subitem {amici\+::\+Newton\+Solver\+Dense}, \hyperpage{337}
+    \subitem {amici\+::\+Newton\+Solver\+Iterative}, \hyperpage{340}
+    \subitem {amici\+::\+Newton\+Solver\+Sparse}, \hyperpage{344}
+  \item {solveB}
+    \subitem {amici\+::\+Solver}, \hyperpage{407}
+  \item {solveF}
+    \subitem {amici\+::\+Solver}, \hyperpage{406}
+  \item {Solver}, \hyperpage{396}
+    \subitem {amici\+::\+Solver}, \hyperpage{400}
+  \item {solver}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{135}
+  \item {solver\+Memory}
+    \subitem {amici\+::\+Solver}, \hyperpage{456}
+  \item {solver\+MemoryB}
+    \subitem {amici\+::\+Solver}, \hyperpage{456}
+  \item {solver\+Was\+Called}
+    \subitem {amici\+::\+Solver}, \hyperpage{456}
+  \item {sparseidx}
+    \subitem {amimodel}, \hyperpage{497}
+  \item {sparseidxB}
+    \subitem {amimodel}, \hyperpage{498}
+  \item {spbcg}
+    \subitem {amici\+::\+Solver}, \hyperpage{443}
+  \item {spbcgB}
+    \subitem {amici\+::\+Solver}, \hyperpage{443}
+  \item {spgmr}
+    \subitem {amici\+::\+Solver}, \hyperpage{442}
+  \item {spgmrB}
+    \subitem {amici\+::\+Solver}, \hyperpage{442}
+  \item {spline}
+    \subitem {amici}, \hyperpage{46}, \hyperpage{57}
+  \item {spline.\+cpp}, \hyperpage{534}
+  \item {spline\+\_\+pos}
+    \subitem {amici}, \hyperpage{58}
+  \item {splineflag}
+    \subitem {amimodel}, \hyperpage{501}
+  \item {sptfqmr}
+    \subitem {amici\+::\+Solver}, \hyperpage{443}
+  \item {sptfqmrB}
+    \subitem {amici\+::\+Solver}, \hyperpage{444}
+  \item {sres}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{353}
+  \item {srz}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{351}
+  \item {ss}
+    \subitem {amioption}, \hyperpage{508}
+  \item {ssigmay}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{353}
+  \item {ssigmaz}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{351}
+  \item {State\+Ordering}
+    \subitem {amici}, \hyperpage{21}
+  \item {status}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{357}
+  \item {stau}
+    \subitem {amici\+::\+Model}, \hyperpage{267}
+  \item {Steady\+State\+Sensitivity\+Mode}
+    \subitem {amici}, \hyperpage{22}
+  \item {steady\+State\+Sensitivity\+Mode}
+    \subitem {amici\+::\+Model}, \hyperpage{269}
+  \item {Steadystate\+Problem}, \hyperpage{457}
+    \subitem {amici\+::\+Steadystate\+Problem}, \hyperpage{458}
+  \item {stldet}
+    \subitem {amioption}, \hyperpage{507}
+  \item {store\+Backtrace}
+    \subitem {amici\+::\+Ami\+Exception}, \hyperpage{79}
+  \item {strsym}
+    \subitem {amifun}, \hyperpage{476}
+  \item {strsym\+\_\+old}
+    \subitem {amifun}, \hyperpage{477}
+  \item {sx}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{352}
+  \item {sx0}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{356}
+    \subitem {amioption}, \hyperpage{509}
+  \item {sx0data}
+    \subitem {amici\+::\+Model}, \hyperpage{268}
+  \item {sy}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{352}
+  \item {sym}
+    \subitem {amifun}, \hyperpage{476}
+    \subitem {amimodel}, \hyperpage{491}
+  \item {sym\+\_\+noopt}
+    \subitem {amifun}, \hyperpage{476}
+  \item {symbolic\+\_\+functions.\+cpp}, \hyperpage{534}
+  \item {sz}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{351}
+
+  \indexspace
+
+  \item {t}
+    \subitem {amici\+::\+Model}, \hyperpage{200}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{335}
+    \subitem {amidata}, \hyperpage{466}
+  \item {t0}
+    \subitem {amici\+::\+Model}, \hyperpage{204}
+    \subitem {amimodel}, \hyperpage{493}
+  \item {Template\+Amici}, \hyperpage{394}
+  \item {time}
+    \subitem {amici\+::\+Integration\+Failure}, \hyperpage{138}
+    \subitem {amici\+::\+Integration\+FailureB}, \hyperpage{140}
+  \item {trigger}
+    \subitem {amievent}, \hyperpage{469}
+  \item {ts}
+    \subitem {amici\+::\+Exp\+Data}, \hyperpage{127}
+    \subitem {amici\+::\+Model}, \hyperpage{269}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{350}
+  \item {tstart}
+    \subitem {amici\+::\+Model}, \hyperpage{269}
+    \subitem {amioption}, \hyperpage{506}
+  \item {turn\+Off\+Root\+Finding}
+    \subitem {amici\+::\+Solver}, \hyperpage{409}
+
+  \indexspace
+
+  \item {ubw}
+    \subitem {amici\+::\+Model}, \hyperpage{260}
+    \subitem {amimodel}, \hyperpage{497}
+  \item {unscale\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{206}
+  \item {unscaled\+Parameters}
+    \subitem {amici\+::\+Model}, \hyperpage{267}
+  \item {update\+Heaviside}
+    \subitem {amici\+::\+Model}, \hyperpage{213}
+  \item {update\+HeavisideB}
+    \subitem {amici\+::\+Model}, \hyperpage{214}
+  \item {update\+Model\+Name}
+    \subitem {amimodel}, \hyperpage{483}
+  \item {update\+R\+HS}
+    \subitem {amimodel}, \hyperpage{482}
+  \item {update\+Wrap\+Path}
+    \subitem {amimodel}, \hyperpage{483}
+
+  \indexspace
+
+  \item {varidx}
+    \subitem {amised}, \hyperpage{513}
+  \item {varsym}
+    \subitem {amised}, \hyperpage{513}
+
+  \indexspace
+
+  \item {w}
+    \subitem {amici\+::\+Model}, \hyperpage{266}
+  \item {warn\+Msg\+Id\+And\+Txt}
+    \subitem {amici}, \hyperpage{70}
+  \item {what}
+    \subitem {amici\+::\+Ami\+Exception}, \hyperpage{78}
+  \item {work\+Backward\+Problem}
+    \subitem {amici\+::\+Backward\+Problem}, \hyperpage{96}
+  \item {work\+Forward\+Problem}
+    \subitem {amici\+::\+Forward\+Problem}, \hyperpage{130}
+  \item {work\+Steady\+State\+Problem}
+    \subitem {amici\+::\+Steadystate\+Problem}, \hyperpage{458}
+  \item {wrap\+\_\+path}
+    \subitem {amimodel}, \hyperpage{500}
+  \item {wrap\+Err\+Handler\+Fn}
+    \subitem {amici\+::\+Solver}, \hyperpage{432}
+  \item {write\+C\+Make\+File}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{390}
+  \item {write\+Ccode}
+    \subitem {amifun}, \hyperpage{472}
+  \item {write\+Ccode\+\_\+sensi}
+    \subitem {amifun}, \hyperpage{472}
+  \item {write\+Function\+File}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{385}
+  \item {write\+Index\+Files}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{385}
+  \item {write\+Matlab\+Field0}
+    \subitem {amici}, \hyperpage{36}
+  \item {write\+Matlab\+Field1}
+    \subitem {amici}, \hyperpage{37}
+  \item {write\+Matlab\+Field2}
+    \subitem {amici}, \hyperpage{38}
+  \item {write\+Matlab\+Field3}
+    \subitem {amici}, \hyperpage{39}
+  \item {write\+Matlab\+Field4}
+    \subitem {amici}, \hyperpage{40}
+  \item {write\+Mcode}
+    \subitem {amifun}, \hyperpage{473}
+  \item {write\+Model\+Header}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{388}
+  \item {write\+Module\+Setup}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{391}
+  \item {write\+Swig\+Files}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{390}
+  \item {write\+Wrapfunctions\+C\+PP}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{387}
+  \item {write\+Wrapfunctions\+Header}
+    \subitem {amici\+::sbml\+\_\+import\+::\+Sbml\+Importer}, 
+		\hyperpage{387}
+  \item {wtype}
+    \subitem {amimodel}, \hyperpage{494}
+
+  \indexspace
+
+  \item {x}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{336}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{352}
+  \item {x0}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{356}
+    \subitem {amioption}, \hyperpage{509}
+  \item {x0data}
+    \subitem {amici\+::\+Model}, \hyperpage{268}
+  \item {xdot}
+    \subitem {amici\+::\+Newton\+Solver}, \hyperpage{335}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{350}
+
+  \indexspace
+
+  \item {Y}
+    \subitem {amidata}, \hyperpage{466}
+  \item {y}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{352}
+
+  \indexspace
+
+  \item {Z}
+    \subitem {amidata}, \hyperpage{466}
+  \item {z}
+    \subitem {amici\+::\+Return\+Data}, \hyperpage{350}
+    \subitem {amievent}, \hyperpage{470}
+  \item {z2event}
+    \subitem {amici\+::\+Model}, \hyperpage{261}
+    \subitem {amimodel}, \hyperpage{501}
+    \subitem {amioption}, \hyperpage{510}
+
+\end{theindex}

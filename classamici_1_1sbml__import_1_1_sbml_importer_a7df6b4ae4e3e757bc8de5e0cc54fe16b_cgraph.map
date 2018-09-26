@@ -1,0 +1,4 @@
+<map id="processRules" name="processRules">
+<area shape="rect" id="node2" href="$namespaceamici_1_1sbml__import.html#a64a5d0187cb4b3f69bceceb7d5638691" title="Extract free symbols in SBML rule formulas. " alt="" coords="155,5,360,33"/>
+<area shape="rect" id="node3" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a1579faf8b188de11ed58ddbebc3c20a7" title="Replace &#39;old&#39; by &#39;new&#39; in all symbolic expressions. " alt="" coords="176,56,340,83"/>
+</map>

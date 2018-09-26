@@ -1,0 +1,7 @@
+<map id="getFun" name="getFun">
+<area shape="rect" id="node2" href="$classamimodel.html#abddb278082c1ff018f3b0ef121bba51a" title="augmento2 augments the system equation to also include equations for sensitivity equation. This will enable us to compute second order sensitivities in a forward&#45;adjoint or forward&#45;forward apporach later on. " alt="" coords="141,5,229,33"/>
+<area shape="rect" id="node3" href="$classamimodel.html#ab8fea0d36484809cb38e0035a564e919" title="augmento2 augments the system equation to also include equations for sensitivity equation. This will enable us to compute second order sensitivities in a forward&#45;adjoint or forward&#45;forward apporach later on. " alt="" coords="130,56,239,83"/>
+<area shape="rect" id="node4" href="$classamimodel.html#ab566026e57f6cbce21a2a2c72b9f7f2b" title="checkDeps checks the dependencies of functions and populates sym fields if necessary ..." alt="" coords="141,107,228,134"/>
+<area shape="rect" id="node5" href="$classamimodel.html#ae4172c2a8fac8b7c434f03274fcac6ac" title="parseModel parses the model definition and computes all necessary symbolic expressions. " alt="" coords="139,157,230,185"/>
+<area shape="rect" id="node6" href="$classamifun.html#a9b041ce0ffcfab125b5db3ed5ca847a2" title="writeMcode generates matlab evaluable code for specific model functions " alt="" coords="116,208,253,235"/>
+</map>

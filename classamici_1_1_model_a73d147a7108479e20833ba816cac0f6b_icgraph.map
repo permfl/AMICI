@@ -1,0 +1,5 @@
+<map id="initializeStates" name="initializeStates">
+<area shape="rect" id="node2" href="$classamici_1_1_model.html#a4d8f308f15a126dde571f2e26787d3e8" title="initialize" alt="" coords="160,13,229,40"/>
+<area shape="rect" id="node3" href="$classamici_1_1_solver.html#a5cffde567803181ec12c71117c74b47a" title="setupAMIs initialises the ami memory object " alt="" coords="277,13,414,40"/>
+<area shape="rect" id="node4" href="$classamici_1_1_forward_problem.html#a4ef001eef23bc48270159d6193036858" title="amici::ForwardProblem\l::workForwardProblem" alt="" coords="462,5,621,48"/>
+</map>

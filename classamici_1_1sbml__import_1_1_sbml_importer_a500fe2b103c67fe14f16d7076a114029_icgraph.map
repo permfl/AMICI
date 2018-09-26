@@ -1,0 +1,5 @@
+<map id="getFunctionBody" name="getFunctionBody">
+<area shape="rect" id="node2" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a85e1499fa29b10b4a0b4afc82feec4e9" title="Write the function function. " alt="" coords="175,5,297,33"/>
+<area shape="rect" id="node3" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#ab36c229db61f3892cc5ae1b29d56940f" title="Create C++ code files for the model based on. " alt="" coords="345,5,460,33"/>
+<area shape="rect" id="node4" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a83900bb62c0121eb798939a6d4232a9c" title="Generate AMICI C++ files for the model provided to the constructor. " alt="" coords="508,5,596,33"/>
+</map>

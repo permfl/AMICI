@@ -1,0 +1,8 @@
+<map id="fdxdotdp" name="fdxdotdp">
+<area shape="rect" id="node2" href="$classamici_1_1_model___d_a_e.html#a551dfccd2fb1aa618c644a580639f5b8" title="fdxdotdp" alt="" coords="187,132,259,159"/>
+<area shape="rect" id="node5" href="$classamici_1_1_model.html#a711281d57e9710226face29151cc4641" title="Get timepoint for given index. " alt="" coords="720,81,827,109"/>
+<area shape="rect" id="node7" href="$classamici_1_1_ami_vector.html#acf288b105b2fa4520d0d73f828687533" title="amici::AmiVector::getNVector" alt="" coords="126,259,320,286"/>
+<area shape="rect" id="node3" href="$classamici_1_1_model.html#abccb9631015d7f75c8afc249c9dbd002" title="Recurring terms in xdot, parameter derivative. " alt="" coords="368,56,507,83"/>
+<area shape="rect" id="node6" href="$classamici_1_1_model.html#a0f8e994055e37954d7746f3c1af27a5c" title="number of paramaeters wrt to which sensitivities are computed " alt="" coords="370,157,505,185"/>
+<area shape="rect" id="node4" href="$classamici_1_1_model.html#aa8570e0334110a30e2e459efa53df9be" title="Recurring terms in xdot. " alt="" coords="555,5,672,33"/>
+</map>

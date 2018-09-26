@@ -1,0 +1,10 @@
+<map id="applyTemplate" name="applyTemplate">
+<area shape="rect" id="node2" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a2ba24adc6b9fafdf99f5acd200acf17a" title="Write model&#45;specific &#39;wrapper&#39; file (wrapfunctions.cpp). " alt="" coords="161,5,404,48"/>
+<area shape="rect" id="node5" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#ad16157bcd165452e4ff9aa9d6f12b907" title="Write model&#45;specific header file (wrapfunctions.h). " alt="" coords="161,72,404,115"/>
+<area shape="rect" id="node6" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#aa549fe60f186fefb87b71a2461b0a270" title="Write model&#45;specific header file (MODELNAME.h). " alt="" coords="161,139,404,181"/>
+<area shape="rect" id="node7" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#ada11f0c35bdbd4d23c25f438df36f954" title="Write CMake CMakeLists.txt file for this model. " alt="" coords="161,205,404,248"/>
+<area shape="rect" id="node8" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a3d8fd08075f483671515fcfae70e1c29" title="Write SWIG interface files for this model. " alt="" coords="161,272,404,315"/>
+<area shape="rect" id="node9" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a6398e5d904f66bf528047fdc48d50ae7" title="Create a distutils setup.py file for compile the model module. " alt="" coords="161,339,404,381"/>
+<area shape="rect" id="node3" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#ab36c229db61f3892cc5ae1b29d56940f" title="Create C++ code files for the model based on. " alt="" coords="452,172,720,215"/>
+<area shape="rect" id="node4" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a83900bb62c0121eb798939a6d4232a9c" title="Generate AMICI C++ files for the model provided to the constructor. " alt="" coords="768,180,1050,207"/>
+</map>

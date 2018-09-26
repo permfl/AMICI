@@ -1,0 +1,5 @@
+<map id="getSymbolIDInitializerList" name="getSymbolIDInitializerList">
+<area shape="rect" id="node2" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#aa549fe60f186fefb87b71a2461b0a270" title="Write model&#45;specific header file (MODELNAME.h). " alt="" coords="224,5,354,33"/>
+<area shape="rect" id="node3" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#ab36c229db61f3892cc5ae1b29d56940f" title="Create C++ code files for the model based on. " alt="" coords="402,5,517,33"/>
+<area shape="rect" id="node4" href="$classamici_1_1sbml__import_1_1_sbml_importer.html#a83900bb62c0121eb798939a6d4232a9c" title="Generate AMICI C++ files for the model provided to the constructor. " alt="" coords="565,5,653,33"/>
+</map>
