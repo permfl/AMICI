@@ -12,6 +12,8 @@
 #include <cstring>
 #include <ctime>
 #include <cmath>
+#include <iostream>
+#include <fstream>
 
 namespace amici {
 
@@ -141,6 +143,17 @@ void NewtonSolver::computeNewtonSensis(AmiVectorArray *sx) {
         solveLinearSystem(&((*sx)[ip]));
     }
 }
+
+void NewtonSolver::writeRHSvector(AmiVector *rhs, std::string name) {
+    std::ofstream out;
+    std::vector<realtype> vec = rhs->getVector();
+    const char *data = reinterpret_cast<const char*>(&vec[0]);
+    out.open(name, std::ios::out | std::ios::binary);
+    out.write(data, vec.size() * sizeof(realtype));
+    out.close();
+}
+
+
 /* ----------------------------------------------------------------------------------
  */
 /* - Dense linear solver

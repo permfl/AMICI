@@ -31,6 +31,10 @@
 #define ONE  RCONST(1.0)
 #define TWO  RCONST(2.0)
 
+static int JACOBI_NUM = 0;
+static int RHS_NUM = 0;
+
+
 /*
  * -----------------------------------------------------
  * Functions working on DlsMat
@@ -44,8 +48,35 @@ long int DenseGETRF(DlsMat A, long int *p)
 
 void DenseGETRS(DlsMat A, long int *p, realtype *b)
 {
-  denseGETRS(A->cols, A->N, p, b);
-}
+  long int size = A->M * A->N;
+  realtype *data = (realtype*)malloc(size * sizeof(realtype));
+
+  long int index = 0;
+  for(long int row = 0; row < A->M; row++) 
+  {
+    for(long int col = 0; col < A->N; col++)
+    {
+      data[index++] = DENSE_ELEM(A, row, col);
+    }
+  }
+
+  const char jname[50];
+  const char rname[50];
+  int nj = sprintf(jname, "JACOBI_DESNSE_%d.bin", JACOBI_NUM++);
+  int nr = sprintf(rname, "RHS_DENSE_%d.bin", RHS_NUM++);
+
+  FILE *jacobi = fopen(jname, "wb");
+  FILE *rhs = fopen(rname, "wb");
+  fwrite(data, sizeof(realtype), size, jacobi);
+  fwrite(b, sizeof(realtype), A->N, rhs);
+
+  fclose(jacobi);
+  fclose(rhs);
+  free(data);
+
+   denseGETRS(A->cols, A->N, p, b);
+ }
+
 
 long int DensePOTRF(DlsMat A)
 {

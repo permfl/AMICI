@@ -52,6 +52,8 @@ class NewtonSolver {
      */
     virtual void solveLinearSystem(AmiVector *rhs) = 0;
 
+    void writeRHSvector(AmiVector *rhs, std::string name);
+
     virtual ~NewtonSolver() = default;
 
     /** maximum number of allowed linear steps per Newton step for steady state
